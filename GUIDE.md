@@ -37,10 +37,27 @@ Réserve de hashtags : #developpementpersonnel #mindset #leconsdevie #sagesse #c
 
 ## Programmation Metricool
 - blogId : `7501132`, réseau `instagram`, fuseau `Europe/Paris`.
-- Créneaux : 2 par jour, **12:15** et **19:15** (ajuster si Metricool `getBestTimeToPostByNetwork` donne des créneaux nettement meilleurs).
+- Créneaux : 2 par jour, **12:15** (carrousel) et **19:15** (reel, voir plus bas) (ajuster si Metricool `getBestTimeToPostByNetwork` donne des créneaux nettement meilleurs).
 - Publication directe : `draft: false`, `autoPublish: true`, `instagramData: {"type": "POST"}`.
 - Avant de programmer, lire `getScheduledPosts` sur la semaine et ne jamais occuper un créneau déjà pris (à moins de 2 h d'un post existant).
 - Si Metricool renvoie une erreur de limite de l'offre gratuite : s'arrêter, ne pas réessayer, le signaler.
+
+## Reels avec musique (1 par jour)
+Chaque jour : **12:15 = carrousel**, **19:15 = reel**. Soit 7 carrousels + 7 reels par semaine.
+Les carrousels ne peuvent pas avoir de musique via l'API ; les reels oui.
+
+Fabrication d'un reel :
+1. Même `spec.json` qu'un carrousel, avec `"reel": true` (masque le « Glisse → »). 6 à 7 slides, textes courts.
+   Les formats les plus forts en reel : paraboles, « vérités qui font mal », listes percutantes.
+2. `python3 outils/make_carousel.py <dossier>/spec.json <dossier>`
+3. `python3 outils/make_reel.py <dossier>` → `<dossier>/reel.mp4` (9:16, ~3,2 s par slide, sans piste audio) et `<dossier>/cover.jpg`.
+   Dossier : `AAAA-MM-JJ-reel`.
+4. Programmation Metricool : `media` = [lien raw de `reel.mp4`], `videoThumbnailUrl` = lien raw de `cover.jpg`,
+   `instagramData` = {"type": "REEL", "showReelOnFeed": true, "audioConfiguration": {"audioId": "<titre + artiste>", "audioVolume": 100}}.
+   Musique : morceau instrumental, émotionnel ou inspirant (piano, cinématique, lo-fi calme), varier d'un reel à l'autre.
+   Si Metricool renvoie une liste de candidats, reprendre avec l'identifiant numérique du plus pertinent.
+   Si l'ajout de musique est refusé (compte non professionnel ou non relié à une page Facebook) : programmer le reel
+   **sans** `audioConfiguration`, et le signaler dans le message final.
 
 ## Après chaque lot
 Ajouter les sujets dans `SUJETS.md` (date, créneau, titre), commit et push.

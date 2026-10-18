@@ -55,7 +55,7 @@ def wrap(draw, text, font, maxw):
         lines.append(cur)
     return lines
 
-def slide(s, i, n, handle, accent, out):
+def slide(s, i, n, handle, accent, out, reel=False):
     img = background(s["c1"], s["c2"], s["glow"], i)
     d = ImageDraw.Draw(img)
     acc = hex2rgb(accent)
@@ -89,7 +89,9 @@ def slide(s, i, n, handle, accent, out):
             y += 58
     # bottom: swipe or CTA
     bf = ImageFont.truetype(F + "Inter-SemiBold.otf", 32)
-    if i < n:
+    if i < n and reel:
+        pass
+    elif i < n:
         t = "Glisse  →"
         d.text((W - margin - d.textlength(t, font=bf), H - 120), t, font=bf, fill=acc)
     else:
@@ -108,5 +110,5 @@ if __name__ == "__main__":
     out = sys.argv[2]; os.makedirs(out, exist_ok=True)
     n = len(spec["slides"])
     for i, s in enumerate(spec["slides"], 1):
-        slide(s, i, n, spec["handle"], spec["accent"], out)
+        slide(s, i, n, spec["handle"], spec["accent"], out, spec.get("reel", False))
     print("ok", n)
