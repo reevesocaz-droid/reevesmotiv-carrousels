@@ -1,0 +1,13 @@
+{
+  "handle": "@reevesmotiv",
+  "accent": "#E8B04A",
+  "slides": [
+    {"c1": "#1d2a1a", "c2": "#070b06", "glow": [0.75, 0.2, "#d9a441"], "kicker": "Leçon de vie", "text": "Il existe une plante qui va t'apprendre la patience.", "size": 88, "sub": "Le bambou chinois."},
+    {"c1": "#3a2b1c", "c2": "#0d0905", "glow": [0.2, 0.15, "#c98a3a"], "kicker": "Année 1", "text": "Le paysan plante la graine. Il l'arrose chaque jour.", "sub": "Rien ne pousse."},
+    {"c1": "#2c2e30", "c2": "#0a0a0b", "glow": [0.5, 0.1, "#8a8f96"], "kicker": "Années 2, 3, 4", "text": "Toujours rien. Pas une feuille.", "sub": "Les voisins se moquent. Lui continue d'arroser."},
+    {"c1": "#2a1e14", "c2": "#060403", "glow": [0.5, 0.95, "#a0682f"], "kicker": "Ce qu'on ne voit pas", "text": "Sous la terre, le bambou construit des racines immenses.", "sub": "Assez fortes pour porter ce qui va venir."},
+    {"c1": "#173b22", "c2": "#04100a", "glow": [0.5, 0.05, "#7fd36b"], "kicker": "Année 5", "text": "En 6 semaines, il pousse de 25 mètres.", "size": 92},
+    {"c1": "#1b1f2e", "c2": "#05060a", "glow": [0.8, 0.3, "#e0a050"], "kicker": "Et toi ?", "text": "Tes efforts invisibles ne sont pas perdus.", "sub": "Ils construisent tes racines."},
+    {"c1": "#4a2a14", "c2": "#0e0704", "glow": [0.5, 0.25, "#ffb347"], "kicker": "Retiens ça", "text": "Continue d'arroser. Ta saison arrive.", "size": 92, "cta": "Abonne-toi pour d'autres leçons de vie"}
+  ]
+}
