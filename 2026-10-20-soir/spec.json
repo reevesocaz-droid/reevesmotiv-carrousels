@@ -1,0 +1,92 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#3d2e14",
+   "c2": "#0c0904",
+   "glow": [
+    0.75,
+    0.2,
+    "#e0a64a"
+   ],
+   "kicker": "Symbole",
+   "text": "Le lion n'est pas le plus rapide. Ni le plus grand.",
+   "sub": "Pourtant, on l'appelle le roi.",
+   "size": 84
+  },
+  {
+   "c1": "#2f2412",
+   "c2": "#080603",
+   "glow": [
+    0.2,
+    0.15,
+    "#c98b3a"
+   ],
+   "kicker": "Leçon 1",
+   "text": "Il rate la plupart de ses chasses. Il repart quand même.",
+   "sub": "L'échec ne le définit pas."
+  },
+  {
+   "c1": "#3a2a10",
+   "c2": "#0a0703",
+   "glow": [
+    0.5,
+    0.1,
+    "#ffb347"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Il se repose sans culpabilité.",
+   "sub": "Récupérer fait partie de la force.",
+   "size": 92
+  },
+  {
+   "c1": "#3d2e14",
+   "c2": "#0c0904",
+   "glow": [
+    0.5,
+    0.95,
+    "#e0a64a"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Il ne rugit pas pour chaque bruit de la savane.",
+   "sub": "Il garde son énergie pour ce qui en vaut la peine."
+  },
+  {
+   "c1": "#2f2412",
+   "c2": "#080603",
+   "glow": [
+    0.8,
+    0.3,
+    "#c98b3a"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Il protège les siens avant de se protéger lui-même.",
+   "sub": "La vraie force sert toujours quelqu'un."
+  },
+  {
+   "c1": "#3a2a10",
+   "c2": "#0a0703",
+   "glow": [
+    0.25,
+    0.8,
+    "#ffb347"
+   ],
+   "kicker": "Leçon 5",
+   "text": "Sa présence suffit. Il n'a rien à prouver.",
+   "size": 88
+  },
+  {
+   "c1": "#3d2e14",
+   "c2": "#0c0904",
+   "glow": [
+    0.5,
+    0.25,
+    "#e0a64a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Sois calme comme le lion. Redoutable quand il le faut.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

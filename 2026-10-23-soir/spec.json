@@ -1,0 +1,90 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#24183d",
+   "c2": "#07050f",
+   "glow": [
+    0.75,
+    0.2,
+    "#b07fe0"
+   ],
+   "kicker": "Parabole",
+   "text": "Un homme a voulu aider un papillon. Il l'a condamné.",
+   "size": 84
+  },
+  {
+   "c1": "#2a1a40",
+   "c2": "#080511",
+   "glow": [
+    0.2,
+    0.15,
+    "#e08ab0"
+   ],
+   "kicker": "L'histoire",
+   "text": "Un jour, il remarque un cocon qui commence à s'ouvrir.",
+   "sub": "Le papillon lutte pendant des heures."
+  },
+  {
+   "c1": "#1e163a",
+   "c2": "#06040e",
+   "glow": [
+    0.5,
+    0.1,
+    "#e0b060"
+   ],
+   "kicker": "La pitié",
+   "text": "Ému, l'homme prend des ciseaux et agrandit l'ouverture.",
+   "sub": "Le papillon sort sans effort."
+  },
+  {
+   "c1": "#24183d",
+   "c2": "#07050f",
+   "glow": [
+    0.5,
+    0.95,
+    "#b07fe0"
+   ],
+   "kicker": "Le problème",
+   "text": "Ses ailes restent fripées. Son corps, gonflé.",
+   "sub": "Il ne volera jamais.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1a40",
+   "c2": "#080511",
+   "glow": [
+    0.8,
+    0.3,
+    "#e08ab0"
+   ],
+   "kicker": "Ce qu'il ignorait",
+   "text": "La lutte pour sortir était ce qui renforçait ses ailes."
+  },
+  {
+   "c1": "#1e163a",
+   "c2": "#06040e",
+   "glow": [
+    0.25,
+    0.8,
+    "#e0b060"
+   ],
+   "kicker": "Et toi ?",
+   "text": "Tes difficultés ne sont pas là pour te briser.",
+   "sub": "Elles te préparent à voler."
+  },
+  {
+   "c1": "#24183d",
+   "c2": "#07050f",
+   "glow": [
+    0.5,
+    0.25,
+    "#b07fe0"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ne fuis pas l'effort. C'est lui qui te donne des ailes.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

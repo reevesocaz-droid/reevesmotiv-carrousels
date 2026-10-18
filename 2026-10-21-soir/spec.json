@@ -1,0 +1,95 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#2e1a33",
+   "c2": "#0b060d",
+   "glow": [
+    0.75,
+    0.2,
+    "#c97bb6"
+   ],
+   "kicker": "Entourage",
+   "text": "5 personnes à garder près de toi, coûte que coûte.",
+   "size": 88
+  },
+  {
+   "c1": "#26162e",
+   "c2": "#08050b",
+   "glow": [
+    0.2,
+    0.15,
+    "#e0a050"
+   ],
+   "kicker": "1 — Celle qui dit la vérité",
+   "text": "Même quand ça pique. Surtout quand ça pique.",
+   "sub": "Les flatteurs ne t'ont jamais fait grandir.",
+   "size": 88
+  },
+  {
+   "c1": "#331c2a",
+   "c2": "#0d0609",
+   "glow": [
+    0.5,
+    0.1,
+    "#d98aa0"
+   ],
+   "kicker": "2 — Celle qui se réjouit",
+   "text": "Ton succès ne la rend pas jalouse. Il la rend fière."
+  },
+  {
+   "c1": "#2e1a33",
+   "c2": "#0b060d",
+   "glow": [
+    0.5,
+    0.95,
+    "#c97bb6"
+   ],
+   "kicker": "3 — Celle qui reste",
+   "text": "Facile d'être là quand tout va bien.",
+   "sub": "Rare d'être là quand tout s'écroule.",
+   "size": 88
+  },
+  {
+   "c1": "#26162e",
+   "c2": "#08050b",
+   "glow": [
+    0.8,
+    0.3,
+    "#e0a050"
+   ],
+   "kicker": "4 — Celle qui t'élève",
+   "text": "Ses ambitions réveillent les tiennes.",
+   "sub": "On finit par ressembler à ceux qu'on fréquente.",
+   "size": 88
+  },
+  {
+   "c1": "#331c2a",
+   "c2": "#0d0609",
+   "glow": [
+    0.25,
+    0.8,
+    "#d98aa0"
+   ],
+   "kicker": "5 — Celle qui te connaît",
+   "text": "Avec elle, tu n'as aucun rôle à jouer.",
+   "sub": "Juste toi. Et c'est assez.",
+   "size": 88
+  },
+  {
+   "c1": "#2e1a33",
+   "c2": "#0b060d",
+   "glow": [
+    0.5,
+    0.25,
+    "#c97bb6"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Garde peu de monde. Mais garde les bons.",
+   "sub": "Identifie-les. Et dis-leur merci.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

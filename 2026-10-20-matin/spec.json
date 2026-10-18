@@ -1,0 +1,92 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#3a2416",
+   "c2": "#0d0805",
+   "glow": [
+    0.75,
+    0.2,
+    "#c98a3a"
+   ],
+   "kicker": "Parabole",
+   "text": "Un père, un sac de clous et une leçon qu'on n'oublie pas.",
+   "sub": "L'histoire de la palissade.",
+   "size": 84
+  },
+  {
+   "c1": "#2e1c12",
+   "c2": "#090504",
+   "glow": [
+    0.2,
+    0.15,
+    "#a0682f"
+   ],
+   "kicker": "Le début",
+   "text": "Un garçon s'emportait pour un rien. Ses mots blessaient tout le monde."
+  },
+  {
+   "c1": "#40201a",
+   "c2": "#0e0605",
+   "glow": [
+    0.5,
+    0.1,
+    "#d9774a"
+   ],
+   "kicker": "Le marché",
+   "text": "Son père lui donne un sac de clous.",
+   "sub": "« À chaque colère, plante un clou dans la palissade. »",
+   "size": 88
+  },
+  {
+   "c1": "#3a2416",
+   "c2": "#0d0805",
+   "glow": [
+    0.5,
+    0.95,
+    "#c98a3a"
+   ],
+   "kicker": "Les semaines passent",
+   "text": "Le premier jour, 37 clous. Puis de moins en moins.",
+   "sub": "Se retenir devient plus facile que planter un clou."
+  },
+  {
+   "c1": "#2e1c12",
+   "c2": "#090504",
+   "glow": [
+    0.8,
+    0.3,
+    "#a0682f"
+   ],
+   "kicker": "Le retour",
+   "text": "Chaque jour sans colère, il retire un clou.",
+   "sub": "Un jour, la palissade est vide."
+  },
+  {
+   "c1": "#40201a",
+   "c2": "#0e0605",
+   "glow": [
+    0.25,
+    0.8,
+    "#d9774a"
+   ],
+   "kicker": "La leçon",
+   "text": "« Regarde les trous. La palissade ne sera plus jamais la même. »",
+   "sub": "Les mots lancés sous la colère laissent les mêmes traces."
+  },
+  {
+   "c1": "#3a2416",
+   "c2": "#0d0805",
+   "glow": [
+    0.5,
+    0.25,
+    "#c98a3a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Tu peux t'excuser mille fois. La cicatrice reste.",
+   "sub": "Avant de parler, respire.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

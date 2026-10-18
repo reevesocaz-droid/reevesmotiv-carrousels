@@ -1,0 +1,102 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#121a33",
+   "c2": "#04060d",
+   "glow": [
+    0.75,
+    0.2,
+    "#e8b04a"
+   ],
+   "kicker": "Dimanche soir",
+   "text": "6 rappels à lire avant d'attaquer ta semaine.",
+   "size": 88
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.2,
+    0.15,
+    "#7f9fe0"
+   ],
+   "kicker": "Rappel 1",
+   "text": "Tu n'as pas besoin de tout faire. Juste l'essentiel.",
+   "sub": "Choisis trois priorités, pas dix."
+  },
+  {
+   "c1": "#101830",
+   "c2": "#03050c",
+   "glow": [
+    0.5,
+    0.1,
+    "#e0c07a"
+   ],
+   "kicker": "Rappel 2",
+   "text": "Une mauvaise journée n'est pas une mauvaise semaine.",
+   "size": 88
+  },
+  {
+   "c1": "#121a33",
+   "c2": "#04060d",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Rappel 3",
+   "text": "Ta motivation partira. Ta discipline doit rester.",
+   "size": 88
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.8,
+    0.3,
+    "#7f9fe0"
+   ],
+   "kicker": "Rappel 4",
+   "text": "Ce que tu repousses depuis des mois prend souvent dix minutes."
+  },
+  {
+   "c1": "#101830",
+   "c2": "#03050c",
+   "glow": [
+    0.25,
+    0.8,
+    "#e0c07a"
+   ],
+   "kicker": "Rappel 5",
+   "text": "Protège tes matins. Ils décident de tes journées.",
+   "size": 88
+  },
+  {
+   "c1": "#121a33",
+   "c2": "#04060d",
+   "glow": [
+    0.5,
+    0.25,
+    "#e8b04a"
+   ],
+   "kicker": "Rappel 6",
+   "text": "Personne ne viendra le faire à ta place.",
+   "sub": "Et c'est une bonne nouvelle : tout dépend de toi.",
+   "size": 88
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.7,
+    0.1,
+    "#7f9fe0"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Lundi n'est pas une punition. C'est une nouvelle chance.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

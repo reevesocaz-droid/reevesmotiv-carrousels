@@ -1,0 +1,92 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.75,
+    0.2,
+    "#ffb347"
+   ],
+   "kicker": "Dimanche",
+   "text": "Avant de penser à tout ce qu'il te reste à faire, regarde derrière toi.",
+   "size": 80
+  },
+  {
+   "c1": "#40261a",
+   "c2": "#0e0806",
+   "glow": [
+    0.2,
+    0.15,
+    "#ff9a5a"
+   ],
+   "kicker": "Il y a un an",
+   "text": "Tu t'inquiétais pour des choses aujourd'hui réglées.",
+   "sub": "Tu as trouvé des solutions. Tu les trouveras encore.",
+   "size": 88
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.5,
+    0.1,
+    "#ffd27a"
+   ],
+   "kicker": "Tes batailles",
+   "text": "Tu as traversé des jours que tu croyais impossibles.",
+   "sub": "Tous. Sans exception."
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.5,
+    0.95,
+    "#ffb347"
+   ],
+   "kicker": "Tes progrès",
+   "text": "Tu sais aujourd'hui des choses que tu ignorais hier.",
+   "sub": "Grandir est souvent silencieux."
+  },
+  {
+   "c1": "#40261a",
+   "c2": "#0e0806",
+   "glow": [
+    0.8,
+    0.3,
+    "#ff9a5a"
+   ],
+   "kicker": "Ta force",
+   "text": "Tu as appris à dire non. À partir. À recommencer.",
+   "size": 88
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.25,
+    0.8,
+    "#ffd27a"
+   ],
+   "kicker": "Ton regard",
+   "text": "Ne mesure pas ta vie à la distance qui reste.",
+   "sub": "Mesure-la au chemin déjà parcouru."
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.5,
+    0.25,
+    "#ffb347"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Sois fier de toi. Tu reviens de loin.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#1a2a3a",
+   "c2": "#05090d",
+   "glow": [
+    0.75,
+    0.2,
+    "#7fb0e0"
+   ],
+   "kicker": "Parabole",
+   "text": "Un verre d'eau va changer ta façon de voir le stress.",
+   "size": 84
+  },
+  {
+   "c1": "#20303d",
+   "c2": "#060a0e",
+   "glow": [
+    0.2,
+    0.15,
+    "#a8c4dc"
+   ],
+   "kicker": "La scène",
+   "text": "Une enseignante lève un verre d'eau devant sa classe.",
+   "sub": "« Combien pèse ce verre, selon vous ? »"
+  },
+  {
+   "c1": "#16263a",
+   "c2": "#04080e",
+   "glow": [
+    0.5,
+    0.1,
+    "#e0b060"
+   ],
+   "kicker": "Les réponses",
+   "text": "200 grammes. 300 grammes. Chacun y va de son chiffre.",
+   "sub": "Elle sourit."
+  },
+  {
+   "c1": "#1a2a3a",
+   "c2": "#05090d",
+   "glow": [
+    0.5,
+    0.95,
+    "#7fb0e0"
+   ],
+   "kicker": "Sa réponse",
+   "text": "« Le poids importe peu. Tout dépend du temps que je le tiens. »"
+  },
+  {
+   "c1": "#20303d",
+   "c2": "#060a0e",
+   "glow": [
+    0.8,
+    0.3,
+    "#a8c4dc"
+   ],
+   "kicker": "Le temps",
+   "text": "Une minute : rien. Une heure : le bras fait mal. Une journée : il ne répond plus."
+  },
+  {
+   "c1": "#16263a",
+   "c2": "#04080e",
+   "glow": [
+    0.25,
+    0.8,
+    "#e0b060"
+   ],
+   "kicker": "La leçon",
+   "text": "Tes soucis sont pareils. Le problème, c'est de ne jamais les poser.",
+   "sub": "Plus tu les portes longtemps, plus ils t'écrasent."
+  },
+  {
+   "c1": "#1a2a3a",
+   "c2": "#05090d",
+   "glow": [
+    0.5,
+    0.25,
+    "#7fb0e0"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ce soir, pose ton verre. Demain, tu le reprendras plus fort.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

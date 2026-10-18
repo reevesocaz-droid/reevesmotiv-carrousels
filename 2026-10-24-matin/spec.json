@@ -1,0 +1,89 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#3a1420",
+   "c2": "#0e0408",
+   "glow": [
+    0.75,
+    0.2,
+    "#e0607a"
+   ],
+   "kicker": "Loyauté",
+   "text": "Les mots sont faciles. Voici les signes qui ne mentent pas.",
+   "sub": "Quelqu'un tient vraiment à toi quand il…",
+   "size": 84
+  },
+  {
+   "c1": "#331420",
+   "c2": "#0c0407",
+   "glow": [
+    0.2,
+    0.15,
+    "#e0a050"
+   ],
+   "kicker": "Signe 1",
+   "text": "Se souvient des petites choses que tu as dites en passant."
+  },
+  {
+   "c1": "#3d1a1a",
+   "c2": "#0e0505",
+   "glow": [
+    0.5,
+    0.1,
+    "#d98a6a"
+   ],
+   "kicker": "Signe 2",
+   "text": "Te défend quand tu n'es pas là pour l'entendre.",
+   "sub": "La loyauté se prouve dans ton absence."
+  },
+  {
+   "c1": "#3a1420",
+   "c2": "#0e0408",
+   "glow": [
+    0.5,
+    0.95,
+    "#e0607a"
+   ],
+   "kicker": "Signe 3",
+   "text": "Prend de tes nouvelles sans raison particulière.",
+   "size": 88
+  },
+  {
+   "c1": "#331420",
+   "c2": "#0c0407",
+   "glow": [
+    0.8,
+    0.3,
+    "#e0a050"
+   ],
+   "kicker": "Signe 4",
+   "text": "Respecte ton « non » sans te le faire payer.",
+   "size": 88
+  },
+  {
+   "c1": "#3d1a1a",
+   "c2": "#0e0505",
+   "glow": [
+    0.25,
+    0.8,
+    "#d98a6a"
+   ],
+   "kicker": "Signe 5",
+   "text": "Est là dans tes jours gris, pas seulement dans tes jours de fête."
+  },
+  {
+   "c1": "#3a1420",
+   "c2": "#0e0408",
+   "glow": [
+    0.5,
+    0.25,
+    "#e0607a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ne cours pas après ceux qui parlent. Garde ceux qui agissent.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

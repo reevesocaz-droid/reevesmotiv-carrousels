@@ -1,0 +1,104 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#1a2238",
+   "c2": "#06080f",
+   "glow": [
+    0.75,
+    0.2,
+    "#c9a45c"
+   ],
+   "kicker": "Vérités",
+   "text": "6 choses que tu n'as plus à expliquer à personne.",
+   "sub": "Garde ton énergie pour ce qui compte.",
+   "size": 88
+  },
+  {
+   "c1": "#232a40",
+   "c2": "#07090f",
+   "glow": [
+    0.2,
+    0.15,
+    "#8fa3c9"
+   ],
+   "kicker": "1 — Tes limites",
+   "text": "Un « non » est une phrase complète.",
+   "sub": "Pas besoin d'ajouter trois excuses derrière.",
+   "size": 92
+  },
+  {
+   "c1": "#1d2433",
+   "c2": "#05060a",
+   "glow": [
+    0.5,
+    0.1,
+    "#e0b060"
+   ],
+   "kicker": "2 — Ton rythme",
+   "text": "Tu avances à ta vitesse, pas à celle des autres.",
+   "sub": "Ta vie n'est pas une course contre eux."
+  },
+  {
+   "c1": "#1a2238",
+   "c2": "#06080f",
+   "glow": [
+    0.5,
+    0.95,
+    "#c9a45c"
+   ],
+   "kicker": "3 — Tes choix",
+   "text": "Ceux qui veulent te comprendre n'ont pas besoin d'un discours.",
+   "sub": "Les autres trouveront toujours à redire."
+  },
+  {
+   "c1": "#232a40",
+   "c2": "#07090f",
+   "glow": [
+    0.8,
+    0.3,
+    "#8fa3c9"
+   ],
+   "kicker": "4 — Ton silence",
+   "text": "Te taire n'est pas une faiblesse. C'est parfois la réponse la plus sage."
+  },
+  {
+   "c1": "#1d2433",
+   "c2": "#05060a",
+   "glow": [
+    0.25,
+    0.8,
+    "#e0b060"
+   ],
+   "kicker": "5 — Ton départ",
+   "text": "Quitter un endroit qui t'abîme n'exige aucune justification.",
+   "sub": "Ta paix suffit comme raison."
+  },
+  {
+   "c1": "#1a2238",
+   "c2": "#06080f",
+   "glow": [
+    0.5,
+    0.25,
+    "#c9a45c"
+   ],
+   "kicker": "6 — Ta façon d'aimer",
+   "text": "Tu donnes à ta manière. Ceux qui comptent le voient.",
+   "sub": "Les autres n'ont pas à valider."
+  },
+  {
+   "c1": "#232a40",
+   "c2": "#07090f",
+   "glow": [
+    0.7,
+    0.1,
+    "#8fa3c9"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Moins tu te justifies, plus tu respires.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

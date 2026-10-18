@@ -1,0 +1,91 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#3d1e10",
+   "c2": "#0e0603",
+   "glow": [
+    0.75,
+    0.2,
+    "#e07a3a"
+   ],
+   "kicker": "Symbole",
+   "text": "En automne, l'arbre t'enseigne une leçon que peu de gens comprennent.",
+   "size": 84
+  },
+  {
+   "c1": "#3a2410",
+   "c2": "#0d0804",
+   "glow": [
+    0.2,
+    0.15,
+    "#e0a040"
+   ],
+   "kicker": "Leçon 1",
+   "text": "Il laisse tomber ses feuilles sans s'accrocher.",
+   "sub": "Pour traverser l'hiver, il doit d'abord s'alléger.",
+   "size": 88
+  },
+  {
+   "c1": "#2e1a10",
+   "c2": "#0a0503",
+   "glow": [
+    0.5,
+    0.1,
+    "#c9602e"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Perdre n'est pas mourir. C'est se préparer à renaître.",
+   "size": 88
+  },
+  {
+   "c1": "#3d1e10",
+   "c2": "#0e0603",
+   "glow": [
+    0.5,
+    0.95,
+    "#e07a3a"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Pendant le froid, il ne fait pas semblant de fleurir.",
+   "sub": "Il se repose. Il économise. Il attend."
+  },
+  {
+   "c1": "#3a2410",
+   "c2": "#0d0804",
+   "glow": [
+    0.8,
+    0.3,
+    "#e0a040"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Ce sont ses racines qui le gardent debout, pas ses branches.",
+   "sub": "Prends soin de ce que personne ne voit."
+  },
+  {
+   "c1": "#2e1a10",
+   "c2": "#0a0503",
+   "glow": [
+    0.25,
+    0.8,
+    "#c9602e"
+   ],
+   "kicker": "Leçon 5",
+   "text": "Au printemps, il revient. Sans rancune contre l'hiver.",
+   "size": 88
+  },
+  {
+   "c1": "#3d1e10",
+   "c2": "#0e0603",
+   "glow": [
+    0.5,
+    0.25,
+    "#e07a3a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Laisse partir ce qui pèse. Ton printemps a besoin de place.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

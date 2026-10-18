@@ -1,0 +1,93 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#123236",
+   "c2": "#040d0e",
+   "glow": [
+    0.75,
+    0.2,
+    "#6fc3b8"
+   ],
+   "kicker": "Gratitude",
+   "text": "Tu ne remarques ces choses que le jour où elles disparaissent.",
+   "size": 84
+  },
+  {
+   "c1": "#16303a",
+   "c2": "#050c10",
+   "glow": [
+    0.2,
+    0.15,
+    "#d9b26a"
+   ],
+   "kicker": "Le souffle",
+   "text": "Respirer sans douleur. Marcher sans y penser.",
+   "sub": "Ton corps travaille pour toi chaque seconde.",
+   "size": 88
+  },
+  {
+   "c1": "#0f2a2e",
+   "c2": "#030a0b",
+   "glow": [
+    0.5,
+    0.1,
+    "#9fd6c9"
+   ],
+   "kicker": "Les voix",
+   "text": "Le rire de quelqu'un que tu aimes, dans la pièce d'à côté.",
+   "sub": "Un jour, ce sera un souvenir."
+  },
+  {
+   "c1": "#123236",
+   "c2": "#040d0e",
+   "glow": [
+    0.5,
+    0.95,
+    "#6fc3b8"
+   ],
+   "kicker": "Le banal",
+   "text": "Un repas simple. Un lit chaud. Un matin calme.",
+   "sub": "Des millions de gens en rêvent.",
+   "size": 88
+  },
+  {
+   "c1": "#16303a",
+   "c2": "#050c10",
+   "glow": [
+    0.8,
+    0.3,
+    "#d9b26a"
+   ],
+   "kicker": "Le temps",
+   "text": "Un après-midi sans urgence, sans rien à prouver.",
+   "sub": "La richesse la plus rare de notre époque."
+  },
+  {
+   "c1": "#0f2a2e",
+   "c2": "#030a0b",
+   "glow": [
+    0.25,
+    0.8,
+    "#9fd6c9"
+   ],
+   "kicker": "Les présents",
+   "text": "Ceux qui répondent encore quand tu appelles.",
+   "sub": "Appelle-les avant d'avoir une raison.",
+   "size": 88
+  },
+  {
+   "c1": "#123236",
+   "c2": "#040d0e",
+   "glow": [
+    0.5,
+    0.25,
+    "#6fc3b8"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Regarde autour de toi : tu es plus riche que tu ne le crois.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

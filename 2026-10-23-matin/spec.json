@@ -1,0 +1,109 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#123322",
+   "c2": "#040e09",
+   "glow": [
+    0.75,
+    0.2,
+    "#7fd36b"
+   ],
+   "kicker": "Discipline",
+   "text": "6 petites habitudes qui changent une vie en un an.",
+   "sub": "Rien de spectaculaire. Tout est dans la répétition.",
+   "size": 88
+  },
+  {
+   "c1": "#173b2a",
+   "c2": "#05100b",
+   "glow": [
+    0.2,
+    0.15,
+    "#d9b45a"
+   ],
+   "kicker": "Habitude 1",
+   "text": "Faire ton lit dès le réveil.",
+   "sub": "Première victoire de la journée, en 60 secondes.",
+   "size": 92
+  },
+  {
+   "c1": "#10301f",
+   "c2": "#030c07",
+   "glow": [
+    0.5,
+    0.1,
+    "#5fbf8a"
+   ],
+   "kicker": "Habitude 2",
+   "text": "Lire dix pages par jour.",
+   "sub": "Plus de 3 600 pages en un an.",
+   "size": 92
+  },
+  {
+   "c1": "#123322",
+   "c2": "#040e09",
+   "glow": [
+    0.5,
+    0.95,
+    "#7fd36b"
+   ],
+   "kicker": "Habitude 3",
+   "text": "Marcher vingt minutes sans ton téléphone.",
+   "sub": "Ton esprit a besoin de silence pour penser.",
+   "size": 88
+  },
+  {
+   "c1": "#173b2a",
+   "c2": "#05100b",
+   "glow": [
+    0.8,
+    0.3,
+    "#d9b45a"
+   ],
+   "kicker": "Habitude 4",
+   "text": "Noter trois choses positives avant de dormir.",
+   "sub": "Ton cerveau apprend à chercher le bon.",
+   "size": 88
+  },
+  {
+   "c1": "#10301f",
+   "c2": "#030c07",
+   "glow": [
+    0.25,
+    0.8,
+    "#5fbf8a"
+   ],
+   "kicker": "Habitude 5",
+   "text": "Commencer par la tâche que tu repousses.",
+   "sub": "Le reste de la journée devient léger.",
+   "size": 88
+  },
+  {
+   "c1": "#123322",
+   "c2": "#040e09",
+   "glow": [
+    0.5,
+    0.25,
+    "#7fd36b"
+   ],
+   "kicker": "Habitude 6",
+   "text": "Te coucher à heure fixe.",
+   "sub": "Une bonne journée commence la veille au soir.",
+   "size": 92
+  },
+  {
+   "c1": "#173b2a",
+   "c2": "#05100b",
+   "glow": [
+    0.7,
+    0.1,
+    "#d9b45a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Tu ne changes pas ta vie en un jour. Tu la changes chaque jour.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

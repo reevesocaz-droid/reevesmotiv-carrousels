@@ -1,0 +1,93 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#2a2e33",
+   "c2": "#08090b",
+   "glow": [
+    0.75,
+    0.2,
+    "#9fb4c9"
+   ],
+   "kicker": "Symbole",
+   "text": "Les vents soufflent, les saisons passent. La montagne reste.",
+   "sub": "Ce qu'elle a à t'apprendre.",
+   "size": 84
+  },
+  {
+   "c1": "#262a30",
+   "c2": "#07080a",
+   "glow": [
+    0.2,
+    0.15,
+    "#c9d6e0"
+   ],
+   "kicker": "Leçon 1",
+   "text": "Elle ne répond pas à chaque tempête.",
+   "sub": "Elle la laisse passer.",
+   "size": 88
+  },
+  {
+   "c1": "#2e3034",
+   "c2": "#09090a",
+   "glow": [
+    0.5,
+    0.1,
+    "#e0b878"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Elle s'est construite sur des millions d'années.",
+   "sub": "Les grandes choses prennent du temps.",
+   "size": 88
+  },
+  {
+   "c1": "#2a2e33",
+   "c2": "#08090b",
+   "glow": [
+    0.5,
+    0.95,
+    "#9fb4c9"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Plus on monte, plus l'air est rare. Et plus la vue est belle."
+  },
+  {
+   "c1": "#262a30",
+   "c2": "#07080a",
+   "glow": [
+    0.8,
+    0.3,
+    "#c9d6e0"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Elle ne se compare pas aux autres sommets.",
+   "sub": "Chacune a sa hauteur. Chacune a sa place.",
+   "size": 88
+  },
+  {
+   "c1": "#2e3034",
+   "c2": "#09090a",
+   "glow": [
+    0.25,
+    0.8,
+    "#e0b878"
+   ],
+   "kicker": "Leçon 5",
+   "text": "On la gravit pas à pas. Jamais d'un seul bond.",
+   "sub": "Tes objectifs aussi."
+  },
+  {
+   "c1": "#2a2e33",
+   "c2": "#08090b",
+   "glow": [
+    0.5,
+    0.25,
+    "#9fb4c9"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Reste stable dans le bruit. Le calme est une force.",
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}
