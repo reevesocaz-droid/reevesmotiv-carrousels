@@ -35,6 +35,18 @@ Réserve de hashtags : #developpementpersonnel #mindset #leconsdevie #sagesse #c
 2. `python3 outils/make_carousel.py <dossier>/spec.json <dossier>`
 3. Vérifier visuellement au moins la 1re et la dernière slide (texte qui ne déborde pas).
 
+## Fonds photo (prioritaires)
+Une banque de photos est dans `photos/`, décrite dans `photos/INDEX.md` (sujet, thèmes, où poser le texte).
+- Utiliser des fonds photo : `"photo": "photos/<fichier>"`, avec `focus`, `pos` ("haut"/"bas") et `dim` si besoin
+  (voir INDEX.md). Les champs `c1`/`c2`/`glow` deviennent inutiles sur une slide photo.
+- Choisir des photos qui collent au thème du carrousel (aigle pour la vision, loups pour l'entourage,
+  montagne pour les objectifs, lave pour la transformation…).
+- 2 à 4 photos différentes par carrousel ; une même photo peut revenir sur 2 slides avec un `focus` différent.
+- Le texte ne doit jamais recouvrir le visage ou le sujet principal : vérifier la 1re slide et toute slide avec un animal.
+- Pour ne pas lasser : une même photo au plus **2 fois dans la semaine en couverture (slide 1)**. Noter dans SUJETS.md
+  la photo de couverture de chaque publication.
+- Si aucune photo ne colle au sujet, utiliser le fond dégradé (`c1`/`c2`/`glow`) pour ces slides.
+
 ## Programmation Metricool
 - blogId : `7501132`, réseau `instagram`, fuseau `Europe/Paris`.
 - Créneaux : 2 par jour, **12:15** (carrousel) et **19:15** (reel, voir plus bas) (ajuster si Metricool `getBestTimeToPostByNetwork` donne des créneaux nettement meilleurs).

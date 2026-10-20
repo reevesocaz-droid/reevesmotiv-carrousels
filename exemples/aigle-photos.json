@@ -1,0 +1,12 @@
+{
+  "handle": "@reevesmotiv",
+  "accent": "#E8B04A",
+  "slides": [
+    {"photo": "photos/aigle-regard-face.jpg", "focus": [0.5, 0.15], "pos": "bas", "kicker": "Leçon de vie", "text": "L'aigle ne vole jamais avec les pigeons.", "size": 88},
+    {"photo": "photos/aigle-vol-ciel-bleu.jpg", "focus": [0.45, 0.5], "pos": "bas", "kicker": "Leçon 1", "text": "Il vole seul, et il vole haut.", "sub": "Ne cherche pas l'approbation de ceux qui restent au sol."},
+    {"photo": "photos/volcan-eruption.jpg", "focus": [0.2, 0.5], "pos": "haut", "kicker": "Leçon 2", "text": "Face à la tempête, il monte au-dessus des nuages.", "sub": "Les difficultés peuvent te porter plus haut."},
+    {"photo": "photos/aigle-perche.jpg", "focus": [0.5, 0.4], "pos": "bas", "dim": 0.62, "kicker": "Leçon 3", "text": "Il observe longtemps avant d'agir.", "sub": "La patience est une arme."},
+    {"photo": "photos/sommet-enneige-rose.jpg", "focus": [0.5, 0.5], "pos": "bas", "kicker": "Leçon 4", "text": "Il vit sur les sommets, loin du bruit.", "sub": "Protège ta paix."},
+    {"photo": "photos/homme-silhouette-montagne.jpg", "focus": [0.42, 0.5], "pos": "bas", "kicker": "Retiens ça", "text": "Choisis ton altitude. Ton entourage suivra.", "size": 84, "cta": "Abonne-toi pour d'autres leçons de vie"}
+  ]
+}
