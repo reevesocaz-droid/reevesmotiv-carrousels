@@ -48,8 +48,8 @@ Une banque de photos est dans `photos/`, décrite dans `photos/INDEX.md` (sujet,
 - **Portrait de Rivlain** (`photos/rivlain-portrait-costume.jpg`, le propriétaire du compte, accord donné) : c'est le visage
   du compte. L'utiliser pour les leçons de mentalité, calme, discipline, leadership, confiance en soi : en **dernière slide**
   (avec l'appel à s'abonner) sur environ 3 publications par semaine, et en **couverture** au plus 1 fois par semaine.
-  Il doit rester bien visible : réglages de INDEX.md (photo non assombrie, dégradé limité au bas), texte court
-  (2–3 lignes, sans sous-texte). Texte toujours en bas (`pos` "bas"), jamais sur le visage. Ne jamais lui attribuer de citation entre guillemets ni le présenter
+  Choix de Rivlain : la photo doit être **nettement assombrie pour que l'attention aille au texte** (réglages de INDEX.md :
+  dim 0.5, shade 1.0, shade_start 0.1). Texte toujours en bas (`pos` "bas"), jamais sur le visage. Ne jamais lui attribuer de citation entre guillemets ni le présenter
   comme l'auteur d'une phrase célèbre.
 - Si aucune photo ne colle au sujet, utiliser le fond dégradé (`c1`/`c2`/`glow`) pour ces slides.
 

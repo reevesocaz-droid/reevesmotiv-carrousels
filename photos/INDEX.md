@@ -37,7 +37,7 @@ là où la photo est la plus vide ; `dim` (0.72 par défaut) assombrit la photo 
 | sous-l-eau-lumiere.jpg | Surface vue de sous l'eau | profondeur, introspection, se noyer / remonter | bas |
 | sommet-enneige-rose.jpg | Sommet enneigé au lever du jour | objectif, sommet, solitude, paix | bas |
 | montagne-ciel-rose.jpg | Montagne au soleil couchant, ciel rose | aboutissement, beauté, sérénité | haut |
-| rivlain-portrait-costume.jpg | **Portrait du propriétaire du compte** (N&B, costume, regard caméra) | mentalité, calme, discipline, leadership, confiance en soi | bas, focus [0.5, 0.15], **dim 1.0, shade 0.95, shade_start 0.5**, texte court (size 62–66, 2–3 lignes max) pour qu'on le voie bien |
+| rivlain-portrait-costume.jpg | **Portrait du propriétaire du compte** (N&B, costume, regard caméra) | mentalité, calme, discipline, leadership, confiance en soi | bas, focus [0.5, 0.15], **dim 0.5, shade 1.0, shade_start 0.1** (photo assombrie : le texte doit dominer), size 80–84 |
 | vallee-montagnes-foret.jpg | Vallée, montagnes et forêt | horizon, vision, grandeur | haut |
 
 Photos des Higgsfield (bambou, etc.) non incluses.
