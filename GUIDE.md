@@ -45,6 +45,11 @@ Une banque de photos est dans `photos/`, décrite dans `photos/INDEX.md` (sujet,
 - Le texte ne doit jamais recouvrir le visage ou le sujet principal : vérifier la 1re slide et toute slide avec un animal.
 - Pour ne pas lasser : une même photo au plus **2 fois dans la semaine en couverture (slide 1)**. Noter dans SUJETS.md
   la photo de couverture de chaque publication.
+- **Portrait de Rivlain** (`photos/rivlain-portrait-costume.jpg`, le propriétaire du compte, accord donné) : c'est le visage
+  du compte. L'utiliser pour les leçons de mentalité, calme, discipline, leadership, confiance en soi : en **dernière slide**
+  (avec l'appel à s'abonner) sur environ 3 publications par semaine, et en **couverture** au plus 1 fois par semaine.
+  Texte toujours en bas (`pos` "bas"), jamais sur le visage. Ne jamais lui attribuer de citation entre guillemets ni le présenter
+  comme l'auteur d'une phrase célèbre.
 - Si aucune photo ne colle au sujet, utiliser le fond dégradé (`c1`/`c2`/`glow`) pour ces slides.
 
 ## Programmation Metricool
