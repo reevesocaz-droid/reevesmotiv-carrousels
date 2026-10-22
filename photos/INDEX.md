@@ -2,7 +2,8 @@
 
 Fond de slide : `"photo": "photos/<fichier>"` dans spec.json.
 `focus` [x, y] (0 à 1) choisit la zone gardée au recadrage ; `pos` "haut" ou "bas" place le texte
-là où la photo est la plus vide ; `dim` (0.72 par défaut) assombrit la photo.
+là où la photo est la plus vide ; `dim` (0.72 par défaut) assombrit la photo ; `shade` (0 à 1) règle la force du dégradé noir derrière le texte et
+`shade_start` (0.25 par défaut) l'endroit où il commence (plus grand = dégradé plus bas, photo plus visible).
 
 | Fichier | Sujet | Thèmes | Où poser le texte |
 |---|---|---|---|
@@ -36,7 +37,7 @@ là où la photo est la plus vide ; `dim` (0.72 par défaut) assombrit la photo.
 | sous-l-eau-lumiere.jpg | Surface vue de sous l'eau | profondeur, introspection, se noyer / remonter | bas |
 | sommet-enneige-rose.jpg | Sommet enneigé au lever du jour | objectif, sommet, solitude, paix | bas |
 | montagne-ciel-rose.jpg | Montagne au soleil couchant, ciel rose | aboutissement, beauté, sérénité | haut |
-| rivlain-portrait-costume.jpg | **Portrait du propriétaire du compte** (N&B, costume, regard caméra) | mentalité, calme, discipline, leadership, confiance en soi | bas, focus [0.5, 0.1] à [0.5, 0.25], dim 0.8–0.85 |
+| rivlain-portrait-costume.jpg | **Portrait du propriétaire du compte** (N&B, costume, regard caméra) | mentalité, calme, discipline, leadership, confiance en soi | bas, focus [0.5, 0.15], **dim 1.0, shade 0.95, shade_start 0.5**, texte court (size 62–66, 2–3 lignes max) pour qu'on le voie bien |
 | vallee-montagnes-foret.jpg | Vallée, montagnes et forêt | horizon, vision, grandeur | haut |
 
 Photos des Higgsfield (bambou, etc.) non incluses.

@@ -44,7 +44,7 @@ def background(c1, c2, glow, seed):
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-def photo_background(path, focus, pos, dim):
+def photo_background(path, focus, pos, dim, shade=1.0, start=0.25):
     """Cover-crop a photo to 1080x1350, darken it, and add a gradient behind the text."""
     from PIL import ImageEnhance, ImageOps
     im = ImageOps.exif_transpose(Image.open(os.path.join(REPO, path))).convert("RGB")
@@ -58,7 +58,7 @@ def photo_background(path, focus, pos, dim):
     g = Image.new("L", (1, H))
     for y in range(H):
         t = y / H if pos == "bas" else 1 - y / H
-        g.putpixel((0, y), int(235 * max(0.0, (t - 0.25) / 0.75) ** 1.3))
+        g.putpixel((0, y), int(235 * shade * max(0.0, (t - start) / (1 - start)) ** 1.3))
     g = g.resize((W, H))
     im = Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), im, g)
     # light top band for the handle
@@ -84,7 +84,7 @@ def wrap(draw, text, font, maxw):
 def slide(s, i, n, handle, accent, out, reel=False):
     pos = s.get("pos", "haut")
     if s.get("photo"):
-        img = photo_background(s["photo"], s.get("focus", [0.5, 0.5]), pos, s.get("dim", 0.72))
+        img = photo_background(s["photo"], s.get("focus", [0.5, 0.5]), pos, s.get("dim", 0.72), s.get("shade", 1.0), s.get("shade_start", 0.25))
     else:
         img = background(s["c1"], s["c2"], s["glow"], i)
     d = ImageDraw.Draw(img)
