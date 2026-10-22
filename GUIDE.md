@@ -45,7 +45,7 @@ Une banque de photos est dans `photos/`, décrite dans `photos/INDEX.md` (sujet,
 - Le texte ne doit jamais recouvrir le visage ou le sujet principal : vérifier la 1re slide et toute slide avec un animal.
 - Pour ne pas lasser : une même photo au plus **2 fois dans la semaine en couverture (slide 1)**. Noter dans SUJETS.md
   la photo de couverture de chaque publication.
-- **Portrait de Rivlain** (`photos/rivlain-portrait-costume.jpg`, le propriétaire du compte, accord donné) : c'est le visage
+- **Portraits de Rivlain** (`photos/rivlain-portrait-costume.jpg` et `photos/rivlain-dans-la-foule.jpg` pour la confiance en soi ; le propriétaire du compte, accord donné). Les quotas ci-dessous valent pour l'ensemble de ses portraits : c'est le visage
   du compte. L'utiliser pour les leçons de mentalité, calme, discipline, leadership, confiance en soi : en **dernière slide**
   (avec l'appel à s'abonner) sur environ 3 publications par semaine, et en **couverture** au plus 1 fois par semaine.
   Choix de Rivlain : la photo doit être **nettement assombrie pour que l'attention aille au texte** (réglages de INDEX.md :

@@ -38,6 +38,7 @@ là où la photo est la plus vide ; `dim` (0.72 par défaut) assombrit la photo 
 | sommet-enneige-rose.jpg | Sommet enneigé au lever du jour | objectif, sommet, solitude, paix | bas |
 | montagne-ciel-rose.jpg | Montagne au soleil couchant, ciel rose | aboutissement, beauté, sérénité | haut |
 | rivlain-portrait-costume.jpg | **Portrait du propriétaire du compte** (N&B, costume, regard caméra) | mentalité, calme, discipline, leadership, confiance en soi | bas, focus [0.5, 0.15], **dim 0.5, shade 1.0, shade_start 0.1** (photo assombrie : le texte doit dominer), size 80–84 |
+| rivlain-dans-la-foule.jpg | **Rivlain** (N&B, manteau) qui se démarque au milieu d'une foule | confiance en soi, se démarquer, être soi-même, ne pas suivre la foule | bas, **focus [0.54, 0.5] obligatoire** (écarte la personne au premier plan à droite), dim 0.5, shade 1.0, shade_start 0.1, size 80 |
 | vallee-montagnes-foret.jpg | Vallée, montagnes et forêt | horizon, vision, grandeur | haut |
 
 Photos des Higgsfield (bambou, etc.) non incluses.
