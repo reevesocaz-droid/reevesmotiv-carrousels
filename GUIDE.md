@@ -77,5 +77,13 @@ Fabrication d'un reel :
    Si l'ajout de musique est refusé (compte non professionnel ou non relié à une page Facebook) : programmer le reel
    **sans** `audioConfiguration`, et le signaler dans le message final.
 
+## Story pour chaque publication (demande de Rivlain)
+Chaque carrousel et chaque reel est annoncé par une story, **15 minutes après** la publication (12:30 et 19:30).
+1. `python3 outils/make_story.py <dossier>` (ajouter ` reel` pour un reel) → `<dossier>/story.jpg` (1080×1920 :
+   couverture de la publication + « NOUVEAU POST / NOUVEAU REEL » + « Va le voir sur mon profil »).
+2. Programmation Metricool : `media` = [lien raw de `story.jpg`], **pas de champ `text`** (une story seule n'a pas de légende),
+   `instagramData` = {"type": "STORY"}, draft false, autoPublish true.
+3. Si Metricool refuse la story (offre gratuite, limite…), programmer quand même la publication et le signaler dans le message final.
+
 ## Après chaque lot
 Ajouter les sujets dans `SUJETS.md` (date, créneau, titre), commit et push.
