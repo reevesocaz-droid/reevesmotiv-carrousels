@@ -1,0 +1,91 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/loup-regard-sombre.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "kicker": "Leçon de vie",
+   "text": "Ce que le loup t'apprend.",
+   "size": 80
+  },
+  {
+   "c1": "#1a2630",
+   "c2": "#05080b",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 1",
+   "text": "Il ne reste jamais seul longtemps.",
+   "sub": "Il sait que sa force vient de la meute."
+  },
+  {
+   "photo": "photos/loup-blanc-souche.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "kicker": "Leçon 2",
+   "text": "Il ne perd pas son temps avec ceux qui ne sont pas de sa meute.",
+   "sub": "Ton énergie est précieuse. Choisis où elle va.",
+   "size": 72
+  },
+  {
+   "c1": "#14202a",
+   "c2": "#04070a",
+   "glow": [
+    0.5,
+    0.1,
+    "#8fb3c9"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Il fait confiance à son instinct.",
+   "sub": "Ton intuition voit souvent ce que ta tête refuse.",
+   "size": 88
+  },
+  {
+   "c1": "#1a2630",
+   "c2": "#05080b",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Quand il hurle, ce n'est pas pour se plaindre. C'est pour rassembler.",
+   "sub": "Parle pour unir, pas pour te vider."
+  },
+  {
+   "c1": "#14202a",
+   "c2": "#04070a",
+   "glow": [
+    0.8,
+    0.3,
+    "#8fb3c9"
+   ],
+   "kicker": "Leçon 5",
+   "text": "Il protège les plus jeunes de la meute.",
+   "size": 84
+  },
+  {
+   "c1": "#1a2630",
+   "c2": "#05080b",
+   "glow": [
+    0.25,
+    0.8,
+    "#e8b04a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Sois loyal envers ta meute. Et choisis-la bien.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

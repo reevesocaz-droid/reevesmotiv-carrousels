@@ -28,3 +28,19 @@
 - 2026-10-24 soir — Sois comme la montagne (dossier 2026-10-24-soir)
 - 2026-10-25 matin — Regarde le chemin parcouru (dossier 2026-10-25-matin)
 - 2026-10-25 soir — 6 rappels avant d'attaquer ta semaine (dossier 2026-10-25-soir)
+
+## Semaine du 26 octobre au 1er novembre 2026 (12:15 carrousel, 19:15 reel)
+- 2026-10-26 carrousel 12:15 — Ce que le loup t'apprend (dossier 2026-10-26-matin, couverture : loup-regard-sombre.jpg)
+- 2026-10-26 reel 19:15 — Tu n'as pas « pas le temps » (dossier 2026-10-26-reel, couverture : pont-suspendu-course.jpg) — musique : Experience Ludovico Einaudi
+- 2026-10-27 carrousel 12:15 — Le tailleur de pierre (dossier 2026-10-27-matin, couverture : homme-silhouette-montagne.jpg)
+- 2026-10-27 reel 19:15 — Chance ou malchance ? (dossier 2026-10-27-reel, couverture : vallee-montagnes-foret.jpg) — musique : Nuvole Bianche Ludovico Einaudi
+- 2026-10-28 carrousel 12:15 — 6 choses qui ne méritent pas ta colère (dossier 2026-10-28-matin, couverture : volcan-eruption.jpg)
+- 2026-10-28 reel 19:15 — Ce que personne ne te dit sur la réussite (dossier 2026-10-28-reel, couverture : tigre-marche-ombre.jpg) — musique : Time Hans Zimmer
+- 2026-10-29 carrousel 12:15 — Ce que le requin t'apprend (dossier 2026-10-29-matin, couverture : requin-blanc.jpg)
+- 2026-10-29 reel 19:15 — Tu as le droit de couler un peu (dossier 2026-10-29-reel, couverture : baleine-remonte-surface.jpg) — musique : River Flows in You Yiruma
+- 2026-10-30 carrousel 12:15 — Les signes que tu grandis (dossier 2026-10-30-matin, couverture : plante-pot-lumiere.jpg)
+- 2026-10-30 reel 19:15 — 5 vérités sur la confiance en soi (dossier 2026-10-30-reel, couverture : rivlain-portrait-costume.jpg) — musique : Interstellar Main Theme Hans Zimmer
+- 2026-10-31 carrousel 12:15 — Le sage et le scorpion (dossier 2026-10-31-matin, couverture : montagne-reflet-lac.jpg)
+- 2026-10-31 reel 19:15 — Le sculpteur et le bloc de pierre (dossier 2026-10-31-reel, couverture : coulee-lave.jpg) — musique : Comptine d'un autre été Yann Tiersen
+- 2026-11-01 carrousel 12:15 — Le bol brisé et l'or (kintsugi) (dossier 2026-11-01-matin, couverture : dégradé)
+- 2026-11-01 reel 19:15 — 5 promesses pour ce nouveau mois (dossier 2026-11-01-reel, couverture : sommet-enneige-rose.jpg) — musique : Una Mattina Ludovico Einaudi

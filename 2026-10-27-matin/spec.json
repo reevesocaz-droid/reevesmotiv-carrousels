@@ -1,0 +1,89 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/homme-silhouette-montagne.jpg",
+   "pos": "bas",
+   "focus": [
+    0.42,
+    0.5
+   ],
+   "kicker": "Une histoire",
+   "text": "Un tailleur de pierre frappe un rocher. Rien ne se passe.",
+   "sub": "Alors il frappe encore.",
+   "size": 84
+  },
+  {
+   "c1": "#2e2a26",
+   "c2": "#0b0a09",
+   "glow": [
+    0.2,
+    0.15,
+    "#c9a26a"
+   ],
+   "kicker": "10 coups",
+   "text": "Pas une fissure. Pas même une marque.",
+   "size": 88
+  },
+  {
+   "c1": "#2c2e30",
+   "c2": "#0a0a0b",
+   "glow": [
+    0.5,
+    0.1,
+    "#8a8f96"
+   ],
+   "kicker": "50 coups",
+   "text": "Les passants le regardent comme s'il était fou.",
+   "sub": "« Pourquoi continuer ? Ça ne sert à rien. »"
+  },
+  {
+   "c1": "#2e2a26",
+   "c2": "#0b0a09",
+   "glow": [
+    0.5,
+    0.95,
+    "#c9a26a"
+   ],
+   "kicker": "100 coups",
+   "text": "Toujours rien. Il continue, au même rythme.",
+   "size": 88
+  },
+  {
+   "c1": "#2c2e30",
+   "c2": "#0a0a0b",
+   "glow": [
+    0.8,
+    0.3,
+    "#8a8f96"
+   ],
+   "kicker": "Coup 101",
+   "text": "Le rocher se fend en deux.",
+   "size": 92
+  },
+  {
+   "photo": "photos/cycliste-route-falaise.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "La leçon",
+   "text": "Ce n'est pas le dernier coup qui l'a brisé.",
+   "sub": "Ce sont les cent qui l'ont précédé."
+  },
+  {
+   "photo": "photos/sommet-enneige-rose.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Continue de frapper. Le rocher ne prévient pas avant de céder.",
+   "size": 80,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

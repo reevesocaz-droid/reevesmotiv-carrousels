@@ -1,0 +1,91 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "c1": "#231a0c",
+   "c2": "#080603",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Art japonais",
+   "text": "Au Japon, on répare les bols brisés avec de l'or.",
+   "sub": "Cet art s'appelle le kintsugi.",
+   "size": 88
+  },
+  {
+   "c1": "#2a2010",
+   "c2": "#0a0804",
+   "glow": [
+    0.5,
+    0.1,
+    "#f0c060"
+   ],
+   "kicker": "Le principe",
+   "text": "On ne cache pas les fissures. On les souligne.",
+   "size": 88
+  },
+  {
+   "c1": "#231a0c",
+   "c2": "#080603",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Le résultat",
+   "text": "Le bol réparé devient plus précieux qu'avant.",
+   "size": 88
+  },
+  {
+   "c1": "#2a2010",
+   "c2": "#0a0804",
+   "glow": [
+    0.8,
+    0.3,
+    "#f0c060"
+   ],
+   "kicker": "Et toi ?",
+   "text": "Tes blessures ne te rendent pas moins précieux.",
+   "size": 88
+  },
+  {
+   "c1": "#231a0c",
+   "c2": "#080603",
+   "glow": [
+    0.25,
+    0.8,
+    "#e8b04a"
+   ],
+   "kicker": "Tes fissures",
+   "text": "Elles racontent ce que tu as traversé.",
+   "sub": "Et tout ce qui t'a permis de tenir.",
+   "size": 88
+  },
+  {
+   "photo": "photos/baleine-remonte-surface.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "La leçon",
+   "text": "Tu n'as pas besoin de redevenir comme avant.",
+   "sub": "Tu peux devenir plus fort qu'avant."
+  },
+  {
+   "photo": "photos/montagne-ciel-rose.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ce qui t'a brisé peut devenir ce qui te rend unique.",
+   "size": 80,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

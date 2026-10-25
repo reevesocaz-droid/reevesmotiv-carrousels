@@ -1,0 +1,78 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/baleine-remonte-surface.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Si c'est dur en ce moment",
+   "text": "Tu as le droit de couler un peu.",
+   "size": 92
+  },
+  {
+   "photo": "photos/sous-l-eau-lumiere.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Mais",
+   "text": "Ne t'installe pas au fond.",
+   "size": 92
+  },
+  {
+   "c1": "#12283a",
+   "c2": "#040a10",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Rappel",
+   "text": "Même la baleine doit remonter pour respirer.",
+   "sub": "Personne ne peut tout porter sans reprendre son souffle.",
+   "size": 88
+  },
+  {
+   "c1": "#0f2433",
+   "c2": "#03090e",
+   "glow": [
+    0.5,
+    0.1,
+    "#4fa3c7"
+   ],
+   "kicker": "Doucement",
+   "text": "Remonte à ton rythme. Une brasse après l'autre.",
+   "size": 88
+  },
+  {
+   "c1": "#12283a",
+   "c2": "#040a10",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Tu verras",
+   "text": "La lumière est plus proche qu'elle n'en a l'air.",
+   "size": 88
+  },
+  {
+   "photo": "photos/plage-bras-ouverts-reflet.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Respire. Tu es en train de remonter.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

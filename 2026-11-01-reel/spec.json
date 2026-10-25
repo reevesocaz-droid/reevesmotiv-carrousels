@@ -1,0 +1,91 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/sommet-enneige-rose.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Novembre commence",
+   "text": "5 promesses à te faire pour ce nouveau mois.",
+   "size": 88
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.2,
+    0.15,
+    "#ffd27a"
+   ],
+   "kicker": "Promesse 1",
+   "text": "Je me couche plus tôt. Mes matins me remercieront.",
+   "size": 84
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.5,
+    0.1,
+    "#ffb347"
+   ],
+   "kicker": "Promesse 2",
+   "text": "Je finis ce que je commence.",
+   "size": 92
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.5,
+    0.95,
+    "#ffd27a"
+   ],
+   "kicker": "Promesse 3",
+   "text": "Je parle de moi avec respect.",
+   "sub": "Même dans ma tête.",
+   "size": 88
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.8,
+    0.3,
+    "#ffb347"
+   ],
+   "kicker": "Promesse 4",
+   "text": "Moins de temps sur mon téléphone. Plus avec les miens.",
+   "size": 84
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.25,
+    0.8,
+    "#ffd27a"
+   ],
+   "kicker": "Promesse 5",
+   "text": "J'ose demander ce dont j'ai besoin.",
+   "size": 88
+  },
+  {
+   "photo": "photos/vallee-montagnes-foret.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Un nouveau mois, c'est 30 nouvelles chances.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

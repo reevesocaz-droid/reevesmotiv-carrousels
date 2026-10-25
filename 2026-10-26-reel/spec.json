@@ -1,0 +1,96 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/pont-suspendu-course.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "dim": 0.6,
+   "kicker": "Vérités qui font mal",
+   "text": "Tu n'as pas « pas le temps ». Tu as d'autres priorités.",
+   "size": 80
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.2,
+    0.15,
+    "#7f9fe0"
+   ],
+   "kicker": "Vérité 1",
+   "text": "Tu trouves toujours du temps pour ce qui compte vraiment.",
+   "size": 84
+  },
+  {
+   "c1": "#121a33",
+   "c2": "#04060d",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 2",
+   "text": "Une heure par jour, c'est 365 heures par an.",
+   "sub": "Assez pour changer de vie.",
+   "size": 88
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.5,
+    0.95,
+    "#7f9fe0"
+   ],
+   "kicker": "Vérité 3",
+   "text": "Attendre le bon moment, c'est souvent une excuse.",
+   "size": 88
+  },
+  {
+   "c1": "#121a33",
+   "c2": "#04060d",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 4",
+   "text": "Le temps passera de toute façon.",
+   "sub": "La question, c'est ce que tu en feras.",
+   "size": 88
+  },
+  {
+   "c1": "#161d38",
+   "c2": "#05070e",
+   "glow": [
+    0.25,
+    0.8,
+    "#7f9fe0"
+   ],
+   "kicker": "Vérité 5",
+   "text": "Dans un an, tu seras content d'avoir commencé aujourd'hui.",
+   "size": 84
+  },
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Ton temps est ta vraie richesse. Protège-le.",
+   "size": 82,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

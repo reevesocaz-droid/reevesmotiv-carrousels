@@ -1,0 +1,90 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/requin-blanc.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Leçon de vie",
+   "text": "Le requin ne s'arrête jamais d'avancer.",
+   "sub": "Et ce n'est pas un hasard.",
+   "size": 88
+  },
+  {
+   "photo": "photos/requin-fond-sable.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Leçon 1",
+   "text": "Il avance sans bruit.",
+   "sub": "Pas besoin d'annoncer chaque pas pour progresser.",
+   "size": 88
+  },
+  {
+   "c1": "#12283a",
+   "c2": "#040a10",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Il n'a pas besoin du banc pour savoir où il va.",
+   "size": 84
+  },
+  {
+   "photo": "photos/requin-baleine.jpg",
+   "pos": "bas",
+   "focus": [
+    0.0,
+    0.5
+   ],
+   "kicker": "Leçon 3",
+   "text": "Le plus grand d'entre eux est aussi le plus paisible.",
+   "sub": "La vraie force n'a rien à prouver."
+  },
+  {
+   "photo": "photos/sous-l-eau-lumiere.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Leçon 4",
+   "text": "Il perd des milliers de dents dans sa vie. Elles repoussent.",
+   "sub": "Ce que tu perds peut se reconstruire."
+  },
+  {
+   "c1": "#0f2433",
+   "c2": "#03090e",
+   "glow": [
+    0.5,
+    0.1,
+    "#4fa3c7"
+   ],
+   "kicker": "Leçon 5",
+   "text": "Il existe depuis plus longtemps que les arbres.",
+   "sub": "S'adapter, c'est durer.",
+   "size": 84
+  },
+  {
+   "c1": "#12283a",
+   "c2": "#040a10",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Avance. En silence. Sans jamais t'arrêter.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

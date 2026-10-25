@@ -1,0 +1,106 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/volcan-eruption.jpg",
+   "pos": "haut",
+   "focus": [
+    0.0,
+    0.5
+   ],
+   "kicker": "Si tu t'énerves vite",
+   "text": "6 choses qui ne méritent pas ta colère.",
+   "size": 80
+  },
+  {
+   "c1": "#40200f",
+   "c2": "#100704",
+   "glow": [
+    0.2,
+    0.15,
+    "#ffb347"
+   ],
+   "kicker": "1",
+   "text": "Quelqu'un qui te double sur la route.",
+   "sub": "Dans dix minutes, tu l'auras oublié.",
+   "size": 88
+  },
+  {
+   "c1": "#3a1610",
+   "c2": "#0e0503",
+   "glow": [
+    0.5,
+    0.1,
+    "#ff7a3a"
+   ],
+   "kicker": "2",
+   "text": "L'avis de quelqu'un qui ne connaît pas ta vie.",
+   "size": 88
+  },
+  {
+   "c1": "#40200f",
+   "c2": "#100704",
+   "glow": [
+    0.5,
+    0.95,
+    "#ffb347"
+   ],
+   "kicker": "3",
+   "text": "Ce que tu ne peux pas changer.",
+   "sub": "Garde ton énergie pour ce qui dépend de toi.",
+   "size": 88
+  },
+  {
+   "c1": "#3a1610",
+   "c2": "#0e0503",
+   "glow": [
+    0.8,
+    0.3,
+    "#ff7a3a"
+   ],
+   "kicker": "4",
+   "text": "Un message resté sans réponse.",
+   "sub": "Chacun mène ses propres batailles.",
+   "size": 88
+  },
+  {
+   "c1": "#40200f",
+   "c2": "#100704",
+   "glow": [
+    0.25,
+    0.8,
+    "#ffb347"
+   ],
+   "kicker": "5",
+   "text": "Le passé.",
+   "sub": "Il ne bougera plus. Toi, si.",
+   "size": 92
+  },
+  {
+   "c1": "#3a1610",
+   "c2": "#0e0503",
+   "glow": [
+    0.5,
+    0.25,
+    "#ff7a3a"
+   ],
+   "kicker": "6",
+   "text": "Ceux qui cherchent à te faire réagir.",
+   "sub": "Ne leur donne pas ce pouvoir.",
+   "size": 88
+  },
+  {
+   "photo": "photos/coulee-lave.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ta paix vaut plus que d'avoir raison.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

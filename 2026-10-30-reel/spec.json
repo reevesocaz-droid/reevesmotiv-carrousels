@@ -1,0 +1,93 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Confiance en soi",
+   "text": "5 vérités sur la confiance en soi que personne ne t'apprend.",
+   "size": 80
+  },
+  {
+   "c1": "#2a1418",
+   "c2": "#0a0406",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 1",
+   "text": "La confiance ne précède pas l'action. Elle la suit.",
+   "size": 88
+  },
+  {
+   "c1": "#33141c",
+   "c2": "#0c0407",
+   "glow": [
+    0.5,
+    0.1,
+    "#e06a7a"
+   ],
+   "kicker": "Vérité 2",
+   "text": "Tu n'as pas besoin de te sentir prêt pour commencer.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1418",
+   "c2": "#0a0406",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 3",
+   "text": "Chaque promesse tenue envers toi-même te rend plus solide.",
+   "size": 84
+  },
+  {
+   "c1": "#33141c",
+   "c2": "#0c0407",
+   "glow": [
+    0.8,
+    0.3,
+    "#e06a7a"
+   ],
+   "kicker": "Vérité 4",
+   "text": "Les gens sûrs d'eux ont peur aussi. Ils avancent quand même.",
+   "size": 84
+  },
+  {
+   "c1": "#2a1418",
+   "c2": "#0a0406",
+   "glow": [
+    0.25,
+    0.8,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 5",
+   "text": "Ce que les autres pensent de toi ne définit pas qui tu es.",
+   "size": 84
+  },
+  {
+   "photo": "photos/poing-leve-coucher-soleil.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "La confiance se construit. Commence aujourd'hui.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

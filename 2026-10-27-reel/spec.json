@@ -1,0 +1,94 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/vallee-montagnes-foret.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Une histoire",
+   "text": "Le cheval d'un vieux paysan s'enfuit.",
+   "sub": "« Quelle malchance ! » disent les voisins.",
+   "size": 88
+  },
+  {
+   "c1": "#2e2a26",
+   "c2": "#0b0a09",
+   "glow": [
+    0.2,
+    0.15,
+    "#c9a26a"
+   ],
+   "kicker": "Sa réponse",
+   "text": "« Malchance ? Peut-être. »",
+   "size": 92
+  },
+  {
+   "c1": "#2c2e30",
+   "c2": "#0a0a0b",
+   "glow": [
+    0.5,
+    0.1,
+    "#8a8f96"
+   ],
+   "kicker": "Le lendemain",
+   "text": "Le cheval revient, suivi de trois chevaux sauvages.",
+   "sub": "« Quelle chance ! » « Peut-être. »",
+   "size": 84
+  },
+  {
+   "c1": "#2e2a26",
+   "c2": "#0b0a09",
+   "glow": [
+    0.5,
+    0.95,
+    "#c9a26a"
+   ],
+   "kicker": "Une semaine plus tard",
+   "text": "Son fils tente de les dresser et se casse la jambe.",
+   "sub": "« Quelle malchance ! » « Peut-être. »",
+   "size": 84
+  },
+  {
+   "c1": "#2c2e30",
+   "c2": "#0a0a0b",
+   "glow": [
+    0.8,
+    0.3,
+    "#8a8f96"
+   ],
+   "kicker": "Un mois plus tard",
+   "text": "L'armée enrôle tous les jeunes du village. Sauf lui, blessé.",
+   "sub": "« Quelle chance ! » « Peut-être. »",
+   "size": 80
+  },
+  {
+   "photo": "photos/van-route-canyon.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "La leçon",
+   "text": "Ce qui ressemble à un malheur est parfois une protection.",
+   "size": 80
+  },
+  {
+   "c1": "#2e2a26",
+   "c2": "#0b0a09",
+   "glow": [
+    0.25,
+    0.8,
+    "#c9a26a"
+   ],
+   "kicker": "Retiens ça",
+   "text": "Ne juge pas trop vite ce qui t'arrive.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

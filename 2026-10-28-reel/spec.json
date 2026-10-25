@@ -1,0 +1,82 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/tigre-marche-ombre.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Vérités qui font mal",
+   "text": "Ce que personne ne te dit sur la réussite.",
+   "size": 84
+  },
+  {
+   "c1": "#1e1630",
+   "c2": "#06040c",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 1",
+   "text": "Tu perdras des gens en chemin.",
+   "sub": "Tout le monde ne peut pas venir là où tu vas.",
+   "size": 88
+  },
+  {
+   "c1": "#24183a",
+   "c2": "#08050e",
+   "glow": [
+    0.5,
+    0.1,
+    "#b08ae0"
+   ],
+   "kicker": "Vérité 2",
+   "text": "Les débuts sont lents, ennuyeux et invisibles.",
+   "size": 88
+  },
+  {
+   "c1": "#1e1630",
+   "c2": "#06040c",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 3",
+   "text": "Tu douteras. Même en étant sur la bonne voie.",
+   "size": 88
+  },
+  {
+   "c1": "#24183a",
+   "c2": "#08050e",
+   "glow": [
+    0.8,
+    0.3,
+    "#b08ae0"
+   ],
+   "kicker": "Vérité 4",
+   "text": "Ceux qui riaient de toi te demanderont comment tu as fait.",
+   "size": 84
+  },
+  {
+   "photo": "photos/rivlain-dans-la-foule.jpg",
+   "focus": [
+    0.54,
+    0.5
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Le prix est élevé. Mais rester où tu es coûte plus cher.",
+   "size": 80,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

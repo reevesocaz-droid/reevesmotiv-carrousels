@@ -1,0 +1,79 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/coulee-lave.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Une histoire",
+   "text": "On demande à un sculpteur comment il crée ses statues.",
+   "size": 84
+  },
+  {
+   "c1": "#2a1c30",
+   "c2": "#0a060c",
+   "glow": [
+    0.2,
+    0.15,
+    "#ffd27a"
+   ],
+   "kicker": "Sa réponse",
+   "text": "« La statue est déjà dans le bloc. »",
+   "size": 92
+  },
+  {
+   "c1": "#3a2030",
+   "c2": "#0e060b",
+   "glow": [
+    0.5,
+    0.1,
+    "#ff9ab0"
+   ],
+   "kicker": "Son secret",
+   "text": "« J'enlève simplement tout ce qui n'est pas elle. »",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c30",
+   "c2": "#0a060c",
+   "glow": [
+    0.5,
+    0.95,
+    "#ffd27a"
+   ],
+   "kicker": "Et toi ?",
+   "text": "Tu n'as pas besoin de devenir quelqu'un d'autre.",
+   "size": 88
+  },
+  {
+   "c1": "#3a2030",
+   "c2": "#0e060b",
+   "glow": [
+    0.8,
+    0.3,
+    "#ff9ab0"
+   ],
+   "kicker": "La leçon",
+   "text": "Enlève les peurs, les doutes, les masques.",
+   "sub": "Ce qui reste, c'est toi.",
+   "size": 88
+  },
+  {
+   "photo": "photos/homme-ciel-etoile.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Deviens qui tu es déjà.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

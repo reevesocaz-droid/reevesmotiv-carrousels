@@ -1,0 +1,95 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/montagne-reflet-lac.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Une histoire",
+   "text": "Un vieux sage voit un scorpion se noyer dans la rivière.",
+   "size": 84
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.2,
+    0.15,
+    "#ffd27a"
+   ],
+   "kicker": "Le geste",
+   "text": "Il tend la main pour le sauver. Le scorpion le pique.",
+   "size": 84
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.5,
+    0.1,
+    "#ffb347"
+   ],
+   "kicker": "La douleur",
+   "text": "Il retire sa main. Puis il essaie encore.",
+   "sub": "Le scorpion le pique une deuxième fois.",
+   "size": 88
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.5,
+    0.95,
+    "#ffd27a"
+   ],
+   "kicker": "La question",
+   "text": "Un passant s'étonne.",
+   "sub": "« Pourquoi continuer ? Il va encore te piquer. »",
+   "size": 88
+  },
+  {
+   "c1": "#3d2a14",
+   "c2": "#0e0905",
+   "glow": [
+    0.8,
+    0.3,
+    "#ffb347"
+   ],
+   "kicker": "La réponse",
+   "text": "« Piquer est sa nature. Aider est la mienne. »",
+   "size": 88
+  },
+  {
+   "c1": "#352612",
+   "c2": "#0b0804",
+   "glow": [
+    0.25,
+    0.8,
+    "#ffd27a"
+   ],
+   "kicker": "La leçon",
+   "text": "Ne laisse pas la dureté des autres changer qui tu es.",
+   "sub": "Mais apprends aussi à te protéger.",
+   "size": 84
+  },
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Reste bon. Pas naïf.",
+   "size": 84,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

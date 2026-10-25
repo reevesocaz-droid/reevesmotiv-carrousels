@@ -1,0 +1,102 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/plante-pot-lumiere.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Signes discrets",
+   "text": "Les signes que tu grandis vraiment.",
+   "size": 84
+  },
+  {
+   "c1": "#1d2a1a",
+   "c2": "#070b06",
+   "glow": [
+    0.2,
+    0.15,
+    "#d9a441"
+   ],
+   "kicker": "Signe 1",
+   "text": "Tu réagis moins. Tu observes plus.",
+   "size": 88
+  },
+  {
+   "c1": "#173b22",
+   "c2": "#04100a",
+   "glow": [
+    0.5,
+    0.1,
+    "#7fd36b"
+   ],
+   "kicker": "Signe 2",
+   "text": "Tu n'as plus besoin d'avoir le dernier mot.",
+   "size": 88
+  },
+  {
+   "c1": "#1d2a1a",
+   "c2": "#070b06",
+   "glow": [
+    0.5,
+    0.95,
+    "#d9a441"
+   ],
+   "kicker": "Signe 3",
+   "text": "Tu t'éloignes sans faire de scène.",
+   "sub": "Partir en silence est aussi une réponse.",
+   "size": 88
+  },
+  {
+   "c1": "#173b22",
+   "c2": "#04100a",
+   "glow": [
+    0.8,
+    0.3,
+    "#7fd36b"
+   ],
+   "kicker": "Signe 4",
+   "text": "Tu te réjouis sincèrement du succès des autres.",
+   "size": 84
+  },
+  {
+   "c1": "#1d2a1a",
+   "c2": "#070b06",
+   "glow": [
+    0.25,
+    0.8,
+    "#d9a441"
+   ],
+   "kicker": "Signe 5",
+   "text": "Tu acceptes de ne pas plaire à tout le monde.",
+   "size": 84
+  },
+  {
+   "c1": "#173b22",
+   "c2": "#04100a",
+   "glow": [
+    0.5,
+    0.25,
+    "#7fd36b"
+   ],
+   "kicker": "Signe 6",
+   "text": "Tu préfères la paix au drame.",
+   "size": 92
+  },
+  {
+   "photo": "photos/montagne-reflet-lac.jpg",
+   "pos": "haut",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "kicker": "Retiens ça",
+   "text": "Grandir ne fait pas de bruit. Mais ça change tout.",
+   "size": 84,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}
