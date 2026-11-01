@@ -1,0 +1,100 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/homme-ciel-etoile.jpg",
+   "pos": "haut",
+   "kicker": "Leçons de vie",
+   "text": "6 choses que tu comprends seulement avec le temps.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.2,
+    0.15,
+    "#d8a070"
+   ],
+   "kicker": "1",
+   "text": "Tout le monde ne te veut pas du bien. Et ce n'est pas grave.",
+   "size": 84
+  },
+  {
+   "c1": "#33221a",
+   "c2": "#0d0806",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "2",
+   "text": "Le silence est parfois la meilleure des réponses.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.5,
+    0.95,
+    "#d8a070"
+   ],
+   "kicker": "3",
+   "text": "Ta santé vaut plus que ta réussite.",
+   "size": 88
+  },
+  {
+   "c1": "#33221a",
+   "c2": "#0d0806",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "4",
+   "text": "On ne change pas les gens. On change la distance.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.25,
+    0.8,
+    "#d8a070"
+   ],
+   "kicker": "5",
+   "text": "Les autres pensent bien moins à toi que tu ne le crois.",
+   "size": 88
+  },
+  {
+   "c1": "#33221a",
+   "c2": "#0d0806",
+   "glow": [
+    0.7,
+    0.85,
+    "#e8b04a"
+   ],
+   "kicker": "6",
+   "text": "Les moments simples deviennent les plus beaux souvenirs.",
+   "size": 84
+  },
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Le temps ne t'enlève rien. Il t'apprend ce qui compte.",
+   "size": 84,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

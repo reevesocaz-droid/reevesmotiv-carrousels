@@ -1,0 +1,86 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/aigle-regard-face.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "kicker": "Quand ça va mal",
+   "text": "5 phrases à te répéter quand tout semble s'effondrer.",
+   "size": 88
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.2,
+    0.15,
+    "#7aa7e8"
+   ],
+   "kicker": "Phrase 1",
+   "text": "Ce n'est qu'un chapitre. Pas toute l'histoire.",
+   "size": 88
+  },
+  {
+   "c1": "#13213a",
+   "c2": "#05080f",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Phrase 2",
+   "text": "J'ai déjà traversé des jours pires.",
+   "size": 88
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.5,
+    0.95,
+    "#7aa7e8"
+   ],
+   "kicker": "Phrase 3",
+   "text": "Je n'ai pas besoin de tout régler aujourd'hui.",
+   "size": 88
+  },
+  {
+   "c1": "#13213a",
+   "c2": "#05080f",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Phrase 4",
+   "text": "Ralentir n'est pas abandonner.",
+   "size": 92
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.25,
+    0.8,
+    "#7aa7e8"
+   ],
+   "kicker": "Phrase 5",
+   "text": "Ça aussi, ça passera.",
+   "size": 92
+  },
+  {
+   "photo": "photos/baleine-remonte-surface.jpg",
+   "pos": "bas",
+   "kicker": "Retiens ça",
+   "text": "Respire. Tu vas remonter.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

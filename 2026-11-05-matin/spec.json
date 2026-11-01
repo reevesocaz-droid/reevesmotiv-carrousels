@@ -1,0 +1,82 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/plage-bras-ouverts-reflet.jpg",
+   "pos": "bas",
+   "kicker": "Une histoire",
+   "text": "Un homme d'affaires croise un pêcheur qui rentre tôt au port.",
+   "size": 84
+  },
+  {
+   "c1": "#0c2426",
+   "c2": "#030a0b",
+   "glow": [
+    0.2,
+    0.15,
+    "#5fd3c6"
+   ],
+   "kicker": "La question",
+   "text": "« Pourquoi ne pas pêcher plus longtemps ? Tu gagnerais plus. »",
+   "size": 84
+  },
+  {
+   "c1": "#0f2b2e",
+   "c2": "#040b0c",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Le pêcheur",
+   "text": "« Et ensuite ? »",
+   "sub": "« Tu achèterais d'autres bateaux. Tu bâtirais une entreprise. »",
+   "size": 92
+  },
+  {
+   "c1": "#0c2426",
+   "c2": "#030a0b",
+   "glow": [
+    0.5,
+    0.95,
+    "#5fd3c6"
+   ],
+   "kicker": "Le plan",
+   "text": "« Dans vingt ans, tu vendrais tout. Tu serais riche. »",
+   "size": 88
+  },
+  {
+   "c1": "#0f2b2e",
+   "c2": "#040b0c",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Et après ?",
+   "text": "« Tu pourrais enfin te reposer, pêcher un peu, profiter des tiens. »",
+   "size": 84
+  },
+  {
+   "c1": "#0c2426",
+   "c2": "#030a0b",
+   "glow": [
+    0.25,
+    0.8,
+    "#5fd3c6"
+   ],
+   "kicker": "Le sourire",
+   "text": "« C'est déjà ce que je fais. »",
+   "size": 92
+  },
+  {
+   "photo": "photos/vallee-montagnes-foret.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Ne passe pas ta vie à courir après ce que tu as déjà.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

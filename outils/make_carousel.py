@@ -71,7 +71,7 @@ def photo_background(path, focus, pos, dim, shade=1.0, start=0.25):
 def wrap(draw, text, font, maxw):
     lines = []
     for para in text.split("\n"):
-        words, cur = para.split(), ""
+        words, cur = [w for w in para.split(" ") if w], ""
         for w in words:
             test = (cur + " " + w).strip()
             if draw.textlength(test, font=font) <= maxw:

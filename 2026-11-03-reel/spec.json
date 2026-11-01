@@ -1,0 +1,82 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/sous-l-eau-lumiere.jpg",
+   "pos": "bas",
+   "kicker": "Une histoire",
+   "text": "Un vieil âne tombe au fond d'un puits.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.2,
+    0.15,
+    "#d8a070"
+   ],
+   "kicker": "Le fermier",
+   "text": "Il ne peut pas le sortir. Il décide de reboucher le puits.",
+   "size": 84
+  },
+  {
+   "c1": "#33221a",
+   "c2": "#0d0806",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "La terre",
+   "text": "Pelletée après pelletée, la terre tombe sur l'âne.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.5,
+    0.95,
+    "#d8a070"
+   ],
+   "kicker": "La surprise",
+   "text": "Mais à chaque pelletée, l'âne se secoue et monte dessus.",
+   "size": 84
+  },
+  {
+   "c1": "#33221a",
+   "c2": "#0d0806",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "La fin",
+   "text": "Le puits se remplit. Et l'âne en sort tout seul.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1c14",
+   "c2": "#0b0705",
+   "glow": [
+    0.25,
+    0.8,
+    "#d8a070"
+   ],
+   "kicker": "La leçon",
+   "text": "Ce qu'on te jette dessus peut devenir ta marche.",
+   "size": 88
+  },
+  {
+   "photo": "photos/femme-sommet-bras-ouverts.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Secoue-toi. Et monte.",
+   "size": 92,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

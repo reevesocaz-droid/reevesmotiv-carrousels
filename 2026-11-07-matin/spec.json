@@ -1,0 +1,76 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/sous-l-eau-lumiere.jpg",
+   "pos": "bas",
+   "kicker": "Symbole",
+   "text": "Ce que l'eau t'apprend sur la vraie force.",
+   "size": 88
+  },
+  {
+   "c1": "#0c2426",
+   "c2": "#030a0b",
+   "glow": [
+    0.2,
+    0.15,
+    "#5fd3c6"
+   ],
+   "kicker": "Leçon 1",
+   "text": "L'eau ne force pas l'obstacle. Elle le contourne.",
+   "size": 88
+  },
+  {
+   "c1": "#0f2b2e",
+   "c2": "#040b0c",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Goutte après goutte, elle finit par creuser la pierre.",
+   "size": 88
+  },
+  {
+   "c1": "#0c2426",
+   "c2": "#030a0b",
+   "glow": [
+    0.5,
+    0.95,
+    "#5fd3c6"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Elle s'adapte à tout ce qui l'entoure, sans perdre sa nature.",
+   "size": 84
+  },
+  {
+   "c1": "#0f2b2e",
+   "c2": "#040b0c",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Agitée, elle devient trouble. Calme, elle redevient claire.",
+   "size": 84
+  },
+  {
+   "photo": "photos/montagne-reflet-lac.jpg",
+   "pos": "haut",
+   "kicker": "Leçon 5",
+   "text": "Elle trouve toujours son chemin jusqu'à la mer.",
+   "size": 88
+  },
+  {
+   "photo": "photos/montagne-ciel-rose.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Sois doux comme l'eau. Et tenace comme elle.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

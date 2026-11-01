@@ -1,0 +1,88 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/montagne-ciel-rose.jpg",
+   "pos": "haut",
+   "kicker": "Pour toi",
+   "text": "Les victoires que personne ne voit, mais qui comptent.",
+   "size": 88
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Victoire 1",
+   "text": "Tu t'es levé alors que tu n'en avais aucune envie.",
+   "size": 88
+  },
+  {
+   "c1": "#33200e",
+   "c2": "#0c0704",
+   "glow": [
+    0.5,
+    0.1,
+    "#ff9a3c"
+   ],
+   "kicker": "Victoire 2",
+   "text": "Tu as gardé ton calme au lieu de répondre sous la colère.",
+   "size": 84
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Victoire 3",
+   "text": "Tu as dit non sans te sentir coupable.",
+   "size": 88
+  },
+  {
+   "c1": "#33200e",
+   "c2": "#0c0704",
+   "glow": [
+    0.8,
+    0.3,
+    "#ff9a3c"
+   ],
+   "kicker": "Victoire 4",
+   "text": "Tu as pris soin de toi, même un peu.",
+   "size": 88
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.25,
+    0.8,
+    "#e8b04a"
+   ],
+   "kicker": "Victoire 5",
+   "text": "Tu as continué alors que personne ne t'applaudissait.",
+   "size": 88
+  },
+  {
+   "photo": "photos/rivlain-dans-la-foule.jpg",
+   "focus": [
+    0.54,
+    0.5
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Personne ne les voit. Toi, sois-en fier.",
+   "size": 80,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

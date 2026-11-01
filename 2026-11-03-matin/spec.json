@@ -1,0 +1,82 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/vallee-montagnes-foret.jpg",
+   "pos": "haut",
+   "kicker": "Une histoire",
+   "text": "Un professeur remplit un bocal de gros cailloux. « Est-il plein ? »",
+   "size": 84
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.2,
+    0.15,
+    "#7aa7e8"
+   ],
+   "kicker": "Les élèves",
+   "text": "Tous répondent oui. Il ajoute des graviers, qui glissent entre les cailloux.",
+   "size": 80
+  },
+  {
+   "c1": "#13213a",
+   "c2": "#05080f",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Puis le sable",
+   "text": "Il verse du sable. Le sable comble chaque espace.",
+   "sub": "« Et maintenant, est-il plein ? »",
+   "size": 88
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.5,
+    0.95,
+    "#7aa7e8"
+   ],
+   "kicker": "La question",
+   "text": "« Si j'avais mis le sable en premier, les cailloux seraient-ils entrés ? »",
+   "size": 84
+  },
+  {
+   "c1": "#13213a",
+   "c2": "#05080f",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "La leçon",
+   "text": "Les gros cailloux, ce sont ta santé, tes proches, tes rêves.",
+   "size": 84
+  },
+  {
+   "c1": "#0f1a2e",
+   "c2": "#04070d",
+   "glow": [
+    0.25,
+    0.8,
+    "#7aa7e8"
+   ],
+   "kicker": "Le piège",
+   "text": "Le sable, ce sont les petites urgences. Elles prennent toute la place.",
+   "size": 84
+  },
+  {
+   "photo": "photos/montagne-ciel-rose.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Mets d'abord tes gros cailloux. Le reste trouvera sa place.",
+   "size": 84,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

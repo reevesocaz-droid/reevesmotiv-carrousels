@@ -1,0 +1,85 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/tigre-marche-ombre.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.3
+   ],
+   "kicker": "Symbole",
+   "text": "Ce que le tigre t'apprend sur la discipline.",
+   "size": 88
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.2,
+    0.15,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 1",
+   "text": "Le tigre chasse seul. Il n'attend pas qu'on le motive.",
+   "size": 88
+  },
+  {
+   "c1": "#33200e",
+   "c2": "#0c0704",
+   "glow": [
+    0.5,
+    0.1,
+    "#ff9a3c"
+   ],
+   "kicker": "Leçon 2",
+   "text": "Il observe longtemps avant d'agir. La patience fait partie de sa force.",
+   "size": 84
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.5,
+    0.95,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 3",
+   "text": "Il avance en silence. Il ne montre rien avant le bon moment.",
+   "size": 84
+  },
+  {
+   "c1": "#33200e",
+   "c2": "#0c0704",
+   "glow": [
+    0.8,
+    0.3,
+    "#ff9a3c"
+   ],
+   "kicker": "Leçon 4",
+   "text": "Il garde son énergie pour ce qui compte vraiment.",
+   "size": 88
+  },
+  {
+   "c1": "#2b1a0c",
+   "c2": "#0a0603",
+   "glow": [
+    0.25,
+    0.8,
+    "#e8b04a"
+   ],
+   "kicker": "Leçon 5",
+   "text": "Il rate souvent sa proie. Il ne doute jamais de sa nature.",
+   "size": 84
+  },
+  {
+   "photo": "photos/homme-silhouette-montagne.jpg",
+   "pos": "bas",
+   "kicker": "Retiens ça",
+   "text": "Sois concentré. Sois patient. Sois silencieux.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

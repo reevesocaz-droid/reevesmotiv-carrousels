@@ -1,0 +1,97 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/loup-blanc-souche.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "kicker": "Entourage",
+   "text": "6 signes qu'une relation te vide au lieu de te nourrir.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.2,
+    0.15,
+    "#b07ae8"
+   ],
+   "kicker": "Signe 1",
+   "text": "Tu te sens épuisé après chaque conversation.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1838",
+   "c2": "#0a0510",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Signe 2",
+   "text": "Tu pèses chaque mot pour éviter un conflit.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.5,
+    0.95,
+    "#b07ae8"
+   ],
+   "kicker": "Signe 3",
+   "text": "Tes victoires ne les rendent jamais heureux.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1838",
+   "c2": "#0a0510",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Signe 4",
+   "text": "Tu donnes beaucoup. Tu reçois rarement.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.25,
+    0.8,
+    "#b07ae8"
+   ],
+   "kicker": "Signe 5",
+   "text": "Ils se souviennent de tes erreurs, jamais de tes efforts.",
+   "size": 84
+  },
+  {
+   "c1": "#2a1838",
+   "c2": "#0a0510",
+   "glow": [
+    0.7,
+    0.85,
+    "#e8b04a"
+   ],
+   "kicker": "Signe 6",
+   "text": "Tu te sens plus léger quand ils ne sont pas là.",
+   "size": 88
+  },
+  {
+   "photo": "photos/homme-ciel-etoile.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Protéger ta paix n'est pas de l'égoïsme.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ]
+}

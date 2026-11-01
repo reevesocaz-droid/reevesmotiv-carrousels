@@ -1,0 +1,74 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/loup-regard-sombre.jpg",
+   "pos": "bas",
+   "focus": [
+    0.5,
+    0.2
+   ],
+   "kicker": "Une histoire",
+   "text": "Un grand-père dit à son petit-fils : « Deux loups se battent en moi. »",
+   "size": 80
+  },
+  {
+   "c1": "#161a24",
+   "c2": "#05060a",
+   "glow": [
+    0.2,
+    0.15,
+    "#9aa8c8"
+   ],
+   "kicker": "Le premier",
+   "text": "L'un est fait de colère, de jalousie et de peur.",
+   "size": 88
+  },
+  {
+   "c1": "#1c2030",
+   "c2": "#06070c",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Le second",
+   "text": "L'autre est fait de calme, de courage et de bonté.",
+   "size": 88
+  },
+  {
+   "c1": "#161a24",
+   "c2": "#05060a",
+   "glow": [
+    0.5,
+    0.95,
+    "#9aa8c8"
+   ],
+   "kicker": "La question",
+   "text": "« Lequel va gagner, grand-père ? »",
+   "size": 88
+  },
+  {
+   "c1": "#1c2030",
+   "c2": "#06070c",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "La réponse",
+   "text": "« Celui que tu nourris. »",
+   "size": 92
+  },
+  {
+   "photo": "photos/cycliste-route-falaise.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Fais attention à ce que tu nourris chaque jour.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

@@ -1,0 +1,77 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Discipline",
+   "text": "La motivation t'aide à commencer. Elle ne t'aidera pas à finir.",
+   "size": 80
+  },
+  {
+   "c1": "#2e1214",
+   "c2": "#0c0405",
+   "glow": [
+    0.2,
+    0.15,
+    "#e0605a"
+   ],
+   "kicker": "Vérité 1",
+   "text": "La motivation dépend de ton humeur. La discipline, de ta décision.",
+   "size": 84
+  },
+  {
+   "c1": "#36161a",
+   "c2": "#0e0506",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 2",
+   "text": "Les jours sans envie comptent plus que tous les autres.",
+   "size": 88
+  },
+  {
+   "c1": "#2e1214",
+   "c2": "#0c0405",
+   "glow": [
+    0.5,
+    0.95,
+    "#e0605a"
+   ],
+   "kicker": "Vérité 3",
+   "text": "Personne ne viendra te pousser. C'est à toi de te lever.",
+   "size": 84
+  },
+  {
+   "c1": "#36161a",
+   "c2": "#0e0506",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 4",
+   "text": "Les petits efforts répétés battent toujours les grands élans.",
+   "size": 84
+  },
+  {
+   "photo": "photos/poing-leve-coucher-soleil.jpg",
+   "pos": "haut",
+   "kicker": "Retiens ça",
+   "text": "Ne compte pas sur l'envie. Compte sur toi.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

@@ -1,0 +1,82 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/montagne-reflet-lac.jpg",
+   "pos": "haut",
+   "kicker": "Cette semaine",
+   "text": "5 choses à arrêter de te faire subir.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.2,
+    0.15,
+    "#b07ae8"
+   ],
+   "kicker": "Arrête 1",
+   "text": "De te comparer à la vie des autres sur un écran.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1838",
+   "c2": "#0a0510",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Arrête 2",
+   "text": "De dire oui quand tout en toi dit non.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.5,
+    0.95,
+    "#b07ae8"
+   ],
+   "kicker": "Arrête 3",
+   "text": "De t'excuser de prendre de la place.",
+   "size": 88
+  },
+  {
+   "c1": "#2a1838",
+   "c2": "#0a0510",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Arrête 4",
+   "text": "De rejouer tes erreurs passées en boucle.",
+   "size": 88
+  },
+  {
+   "c1": "#21142e",
+   "c2": "#08040d",
+   "glow": [
+    0.25,
+    0.8,
+    "#b07ae8"
+   ],
+   "kicker": "Arrête 5",
+   "text": "D'attendre la permission de vivre ta vie.",
+   "size": 88
+  },
+  {
+   "photo": "photos/plage-bras-ouverts-reflet.jpg",
+   "pos": "bas",
+   "kicker": "Retiens ça",
+   "text": "Pose ce qui t'alourdit. Et avance.",
+   "size": 88,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}

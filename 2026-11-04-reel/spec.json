@@ -1,0 +1,77 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "slides": [
+  {
+   "photo": "photos/pont-suspendu-course.jpg",
+   "pos": "bas",
+   "kicker": "Vérité qui fait mal",
+   "text": "Le bon moment ne viendra pas. C'est à toi de le créer.",
+   "size": 88
+  },
+  {
+   "c1": "#161a24",
+   "c2": "#05060a",
+   "glow": [
+    0.2,
+    0.15,
+    "#9aa8c8"
+   ],
+   "kicker": "Vérité 1",
+   "text": "Tu attends d'être prêt. Personne ne l'est jamais vraiment.",
+   "size": 84
+  },
+  {
+   "c1": "#1c2030",
+   "c2": "#06070c",
+   "glow": [
+    0.5,
+    0.1,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 2",
+   "text": "Chaque « plus tard » finit souvent en « jamais ».",
+   "size": 88
+  },
+  {
+   "c1": "#161a24",
+   "c2": "#05060a",
+   "glow": [
+    0.5,
+    0.95,
+    "#9aa8c8"
+   ],
+   "kicker": "Vérité 3",
+   "text": "La peur ne part pas avant d'agir. Elle part en agissant.",
+   "size": 84
+  },
+  {
+   "c1": "#1c2030",
+   "c2": "#06070c",
+   "glow": [
+    0.8,
+    0.3,
+    "#e8b04a"
+   ],
+   "kicker": "Vérité 4",
+   "text": "Dans un an, tu regretteras de ne pas avoir commencé aujourd'hui.",
+   "size": 84
+  },
+  {
+   "photo": "photos/rivlain-portrait-costume.jpg",
+   "focus": [
+    0.5,
+    0.15
+   ],
+   "pos": "bas",
+   "dim": 0.5,
+   "shade": 1.0,
+   "shade_start": 0.1,
+   "kicker": "Retiens ça",
+   "text": "Commence imparfait. Mais commence.",
+   "size": 84,
+   "cta": "Abonne-toi pour d'autres leçons de vie"
+  }
+ ],
+ "reel": true
+}
