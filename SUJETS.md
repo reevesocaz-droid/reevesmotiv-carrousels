@@ -45,7 +45,8 @@
 - 2026-11-01 carrousel 12:15 — Le bol brisé et l'or (kintsugi) (dossier 2026-11-01-matin, couverture : dégradé)
 - 2026-11-01 reel 19:15 — 5 promesses pour ce nouveau mois (dossier 2026-11-01-reel, couverture : sommet-enneige-rose.jpg) — sans musique (catalogue audio Instagram refusé, 403)
 
-## Semaine du 2 au 8 novembre 2026 (12:15 carrousel, 19:15 reel)
+## Semaine du 2 au 8 novembre 2026
+Limite Metricool (20/mois) découverte le 1er nov. : seuls 4 reels restent programmés (2, 3, 5 et 7 nov. à 19:15). Les carrousels, les 3 autres reels et les 14 stories ont été passés en brouillon dans Metricool.
 - 2026-11-02 carrousel 12:15 — Ce que le tigre t'apprend sur la discipline (dossier 2026-11-02-matin, couverture : tigre-marche-ombre.jpg)
 - 2026-11-02 reel 19:15 — La motivation ne suffit pas (discipline) (dossier 2026-11-02-reel, couverture : rivlain-portrait-costume.jpg) — sans musique (catalogue audio Instagram refusé, 403)
 - 2026-11-03 carrousel 12:15 — Le bocal et les gros cailloux (dossier 2026-11-03-matin, couverture : vallee-montagnes-foret.jpg)
@@ -60,3 +61,9 @@
 - 2026-11-07 reel 19:15 — L'aigle qui se croyait poule (dossier 2026-11-07-reel, couverture : aigle-perche.jpg) — sans musique (catalogue audio Instagram refusé, 403)
 - 2026-11-08 carrousel 12:15 — Les victoires que personne ne voit (dossier 2026-11-08-matin, couverture : montagne-ciel-rose.jpg)
 - 2026-11-08 reel 19:15 — 5 choses à arrêter de te faire subir (dossier 2026-11-08-reel, couverture : montagne-reflet-lac.jpg) — sans musique (catalogue audio Instagram refusé, 403)
+
+## Prêts mais non publiés (à réutiliser en priorité, puis retirer de la liste une fois programmés)
+- Reel — Le bon moment ne viendra pas (dossier 2026-11-04-reel)
+- Reel — 5 phrases à te répéter quand ça va mal (dossier 2026-11-06-reel)
+- Reel — 5 choses à arrêter de te faire subir (dossier 2026-11-08-reel)
+- Carrousels (si l'offre change) : 2026-11-02-matin (tigre), 2026-11-03-matin (bocal), 2026-11-04-matin (relation qui vide), 2026-11-05-matin (pêcheur), 2026-11-06-matin (avec le temps), 2026-11-07-matin (l'eau), 2026-11-08-matin (victoires invisibles)

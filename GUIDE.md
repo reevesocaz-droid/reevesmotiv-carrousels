@@ -53,6 +53,16 @@ Une banque de photos est dans `photos/`, décrite dans `photos/INDEX.md` (sujet,
   comme l'auteur d'une phrase célèbre.
 - Si aucune photo ne colle au sujet, utiliser le fond dégradé (`c1`/`c2`/`glow`) pour ces slides.
 
+## ⚠️ Limite de l'offre gratuite Metricool : 20 publications par mois (décision de Rivlain, 1er nov. 2026)
+Chaque élément programmé compte (carrousel, reel ET story). Donc :
+- **Rythme : 4 reels par semaine à 19:15** (lundi, mercredi, vendredi, dimanche). **Plus de carrousels ni de stories programmés**
+  tant que Rivlain ne passe pas à une offre payante (les reels sont le format qui marche le mieux : ~22 de portée contre 2–4 pour un carrousel).
+- Avant de programmer, compter dans `getScheduledPosts` tout ce qui est publié ou programmé (hors brouillons) sur le **mois civil**
+  de chaque date visée, et ne jamais dépasser 20 par mois. Si le quota est atteint, ne rien programmer de plus ce mois-là.
+- Réutiliser d'abord les publications déjà fabriquées mais jamais publiées (section « Prêts mais non publiés » de SUJETS.md),
+  puis en écrire de nouvelles. Retirer de cette section ce qui est programmé.
+- Les sections ci-dessous sur les carrousels et les stories restent valables si l'offre change.
+
 ## Programmation Metricool
 - blogId : `7501132`, réseau `instagram`, fuseau `Europe/Paris`.
 - Créneaux : 2 par jour, **12:15** (carrousel) et **19:15** (reel, voir plus bas) (ajuster si Metricool `getBestTimeToPostByNetwork` donne des créneaux nettement meilleurs).
