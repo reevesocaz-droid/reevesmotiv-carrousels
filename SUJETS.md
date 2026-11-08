@@ -63,10 +63,10 @@ Limite Metricool (20/mois) découverte le 1er nov. : seuls 4 reels restent progr
 - 2026-11-08 reel 19:15 — 5 choses à arrêter de te faire subir (dossier 2026-11-08-reel, couverture : montagne-reflet-lac.jpg) — sans musique (catalogue audio Instagram refusé, 403)
 
 ## Semaine du 9 au 15 novembre 2026 (4 reels à 19:15, sans carrousels ni stories — limite Metricool 20/mois)
-- 2026-11-09 reel 19:15 — 5 choses à arrêter de te faire subir (réutilisé, dossier 2026-11-08-reel, couverture : montagne-reflet-lac.jpg) — sans musique (catalogue audio Instagram refusé, 403)
-- 2026-11-11 reel 19:15 — Le bon moment ne viendra pas (réutilisé, dossier 2026-11-04-reel, couverture : pont-suspendu-course.jpg) — sans musique (catalogue audio Instagram refusé, 403)
-- 2026-11-13 reel 19:15 — 5 phrases à te répéter quand ça va mal (réutilisé, dossier 2026-11-06-reel, couverture : aigle-regard-face.jpg) — sans musique (catalogue audio Instagram refusé, 403)
-- 2026-11-15 reel 19:15 — La grenouille sourde (dossier 2026-11-15-reel, couverture : cycliste-route-falaise.jpg) — sans musique (catalogue audio Instagram refusé, 403)
+- 2026-11-09 reel 19:15 — 5 choses à arrêter de te faire subir (réutilisé, dossier 2026-11-08-reel, couverture : montagne-reflet-lac.jpg) — sans musique (audio refusé : compte Instagram non relié à une page Facebook)
+- 2026-11-11 reel 19:15 — Le bon moment ne viendra pas (réutilisé, dossier 2026-11-04-reel, couverture : pont-suspendu-course.jpg) — sans musique (audio refusé : compte Instagram non relié à une page Facebook)
+- 2026-11-13 reel 19:15 — 5 phrases à te répéter quand ça va mal (réutilisé, dossier 2026-11-06-reel, couverture : aigle-regard-face.jpg) — sans musique (audio refusé : compte Instagram non relié à une page Facebook)
+- 2026-11-15 reel 19:15 — La grenouille sourde (dossier 2026-11-15-reel, couverture : cycliste-route-falaise.jpg) — sans musique (audio refusé : compte Instagram non relié à une page Facebook)
 
 ## Prêts mais non publiés (à réutiliser en priorité, puis retirer de la liste une fois programmés)
 - Carrousels (si l'offre change) : 2026-11-02-matin (tigre), 2026-11-03-matin (bocal), 2026-11-04-matin (relation qui vide), 2026-11-05-matin (pêcheur), 2026-11-06-matin (avec le temps), 2026-11-07-matin (l'eau), 2026-11-08-matin (victoires invisibles)
