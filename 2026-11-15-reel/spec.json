@@ -1,0 +1,22 @@
+{
+ "handle": "@reevesmotiv",
+ "accent": "#E8B04A",
+ "reel": true,
+ "slides": [
+  {"photo": "photos/cycliste-route-falaise.jpg", "pos": "haut", "kicker": "Une histoire",
+   "text": "Des grenouilles font une course : grimper tout en haut d'une tour.", "size": 84},
+  {"c1": "#1b1f2e", "c2": "#06070c", "glow": [0.2, 0.15, "#6f8fd8"], "kicker": "La foule",
+   "text": "Autour, tout le monde crie : « Impossible ! Vous n'y arriverez jamais ! »", "size": 80},
+  {"c1": "#20243a", "c2": "#07080e", "glow": [0.8, 0.85, "#e8b04a"], "kicker": "Le doute",
+   "text": "Une à une, les grenouilles abandonnent.", "size": 88},
+  {"c1": "#1b1f2e", "c2": "#06070c", "glow": [0.5, 0.1, "#6f8fd8"], "kicker": "L'exception",
+   "text": "Une seule continue de grimper. Encore. Et encore.", "size": 88},
+  {"photo": "photos/femme-sommet-bras-ouverts.jpg", "pos": "haut", "kicker": "Le sommet",
+   "text": "Elle arrive en haut. Quel est son secret ?", "size": 84},
+  {"c1": "#20243a", "c2": "#07080e", "glow": [0.25, 0.8, "#e8b04a"], "kicker": "La réponse",
+   "text": "Elle était sourde. Elle n'a jamais entendu les cris.", "size": 88},
+  {"photo": "photos/rivlain-portrait-costume.jpg", "focus": [0.5, 0.15], "pos": "bas", "dim": 0.5, "shade": 1.0, "shade_start": 0.1,
+   "kicker": "Retiens ça", "text": "Reste sourd à ceux qui te disent que c'est impossible.", "size": 82,
+   "cta": "Abonne-toi pour d'autres leçons de vie"}
+ ]
+}
